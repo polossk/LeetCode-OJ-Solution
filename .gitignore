@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Office temporary file
+~$*.xlsx
+
 # Folder config file
 Desktop.ini
 

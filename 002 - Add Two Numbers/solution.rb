@@ -10,7 +10,7 @@
 # @param {ListNode} l1
 # @param {ListNode} l2
 # @return {ListNode}
-def add_two_numbers(l1, l2)
+def add_two_numbers( l1, l2 )
 	head, prev = nil, nil
 	d0, d1 = 0, 0
 	while (l1 != nil || l2 != nil)

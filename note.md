@@ -1,26 +1,83 @@
 # LeetCode OJ Notes
----
-### Check in my Blog @ blog.polossk.com 
+
+## Check in my Blog @ blog.polossk.com 
 >http://blog.polossk.com/201510/leetcode-record/
 
-### Solved Problem List:
-| No. | Type      | Tags      | 目标及做法  | code      |
-| --: | :-------- | :-------- | ----------- | :-------- |
-|001|Brute Force|Array, Hash Table|记录位置信息排序二分查找；先查表再添加元素|cpp ruby|
-|002|Data Structure|Linked List, Math|链表多项式求和问题|cpp ruby|
-|003|Dynamic Programming|Hash Table, Two Pointers, String|记录状态直接线性扫一遍|cpp|
-|004|Searching|Divide and Conquer, Array, Binary Search|二分答案，或分治找第k大数|cpp python ruby|
-|005|String|String|manacher algorithm|cpp ruby|
-|019|Data Structure|Linked List, Two Pointers|两个指针扫描即可|cpp ruby|
-|021|Data Structure|Linked List|同步扫描即可|cpp ruby|
-|023|Data Structure|Divide and Conquer, Linked List, Heap|提取数据后排序再重建，或直接分治，或就地变堆|cpp python ruby|
-|024|Data Structure|Linked List|链表中每两个元素交换顺序|cpp|
-|025|Data Structure|Linked List|链表中每k个元素交换顺序|cpp|
-|061|Data Structure|Linked List, Two Pointers|连接头尾节点成环|cpp ruby|
-|082|Data Structure|Linked List|删除有重复的节点|cpp java python ruby|
-|083|Data Structure|Linked List|删除重复节点|cpp java python ruby|
-|093|Searching|Backtracking, String|直接暴力深搜|cpp|
-|125|String|Two Pointers, String|排除非法字符直接判断|cpp python ruby|
-|143|Data Structure|Linked List|找中点，逆序后半段，重组|cpp|
-|189|Data Structure|Array|循环右移k位|cpp python ruby|
-|231|Brute Force|Math, Bit Manipulation|判断是否为2的乘幂|cpp ruby|
+## Solved Problem List:
+
+---
+### Problem 001 ~ Problem 099
+
+* 001 - Two Sum
+* 002 - Add Two Numbers
+* 003 - Longest Substring Without Repeating Characters
+* 004 - Median of Two Sorted Arrays
+* 005 - Longest Palindromic Substring
+* 006 - ZigZag Conversion
+* 007 - Reverse Integer
+* 008 - String to Integer (atoi)
+* 009 - Palindrome Number
+
+* 010 - Regular Expression Matching
+* 011 - Container With Most Water
+* 012 - Integer to Roman
+* 013 - Roman to Integer
+* 014 - Longest Common Prefix
+* 019 - Remove Nth Node From End of List
+
+* 021 - Merge Two Sorted Lists
+* 023 - Merge k Sorted Lists
+* 024 - Swap Nodes in Pairs
+* 025 - Reverse Nodes in k-Group
+
+* 061 - Rotate List
+* 065 - Valid Number
+
+* 074 - Search a 2D Matrix
+
+* 082 - Remove Duplicates from Sorted List II
+* 083 - Remove Duplicates from Sorted List
+* 086 - Partition List
+
+* 093 - Restore IP Addresses
+
+---
+### Problem 100 ~ Problem 199
+
+* 124 - Binary Tree Maximum Path Sum
+* 125 - Valid Palindrome
+
+* 139 - Word Break
+
+* 143 - Reorder List
+
+* 189 - Rotate Array
+
+---
+### Problem 200 ~ Problem 299
+
+* 201 - Bitwise AND of Numbers Range
+
+* 218 - The Skyline Problem
+
+* 224 - Basic Calculator
+* 225 - Implement Stack using Queues
+* 226 - Invert Binary Tree
+
+* 231 - Power of Two
+* 235 - Basic Calculator II
+
+* 241 - Different Ways to Add Parentheses
+
+* 260 - Single Number III
+
+---
+### Problem 300 ~ Problem 399
+
+* 309 - Best Time to Buy and Sell Stock with Cooldown
+
+* 327 - Count of Range Sum
+
+* 385 - Mini Parser
+
+* 394 - Decode String

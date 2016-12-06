@@ -11,6 +11,12 @@ typedef long long int64;
 template<class T>inline bool updateMin(T& a, T b){ return a > b ? a = b, 1: 0; }
 template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
+class Solution
+{
+public:
+
+};
+
 void test()
 {
 

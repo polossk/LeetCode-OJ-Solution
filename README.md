@@ -5,19 +5,14 @@
 
 ## Progress
 
-Total: 66 / 441 questions solved
-* 001 ~ 099: 31 / 099
+Total: 70 / 495 questions solved
+* 001 ~ 099: 32 / 099
 * 100 ~ 199: 14 / 100
 * 200 ~ 299: 14 / 100
-* 300 ~ 399: 5 / 100
-* 400 ~ 475: 2 / 075
-* # 37 questions were locked
-
-## Solution List
-
-#### blog version
-
->http://blog.polossk.com/201510/leetcode-record/
+* 300 ~ 399: 6 / 100
+* 400 ~ 499: 4 / 100
+* 500 ~ 599: 0 / 100
+* # several questions were locked
 
 ## Solutions
 sample solutions in cpp, java, python or ruby.
@@ -42,6 +37,7 @@ sample solutions in cpp, java, python or ruby.
 * 013 - Roman to Integer
 * 014 - Longest Common Prefix
 * 015 - 3Sum
+* 016 - 3Sum Closest
 * 019 - Remove Nth Node From End of List
 * 021 - Merge Two Sorted Lists
 * 023 - Merge k Sorted Lists
@@ -100,15 +96,23 @@ sample solutions in cpp, java, python or ruby.
 
 * 307 - Range Sum Query - Mutable
 * 309 - Best Time to Buy and Sell Stock with Cooldown
+* 315 - Count of Smaller Numbers After Self
 * 327 - Count of Range Sum
 * 385 - Mini Parser
 * 394 - Decode String
 
 ---
-### Problem 400 ~
+### Problem 400 ~ Problem 499
 
+* 420 - Strong Password Checker
 * 464 - Can I Win
 * 468 - Validate IP Address
+* 493 - Reverse Pairs
+
+---
+### Problem 500 ~ Problem 599
+
+* 541 - Reverse String II
 
 ---
 ### Locked Problems

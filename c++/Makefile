@@ -1,12 +1,12 @@
 CC      = g++
-EXEC    = main
+EXEC    = main.exe
 CXXFLAGS = -std=c++11 -lm
 
 leetcode: leetcode???.cpp
 	$(CC) -o $(EXEC) $< $(CXXFLAGS)
 	$(EXEC)
 
-clean:
-	echo 233
+clean: $(EXEC)
+	del $(EXEC)
 
 .PHONY: clean

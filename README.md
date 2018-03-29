@@ -3,22 +3,23 @@
 ## Home
 >https://leetcode.com/problemset/algorithms/
 
-## Progress
+## Solutions
+![cpp](https://img.shields.io/badge/cpp-71-f34b7d.svg)
+![ruby](https://img.shields.io/badge/ruby-22-701516.svg)
+![python](https://img.shields.io/badge/python-14-3572A5.svg)
+![java](https://img.shields.io/badge/java-3-b07219.svg)
 
-Total: 70 / 495 questions solved
+## Progress
+Total: 72 / 781 questions solved
 * 001 ~ 099: 32 / 099
 * 100 ~ 199: 14 / 100
 * 200 ~ 299: 14 / 100
-* 300 ~ 399: 6 / 100
+* 300 ~ 399: 7 / 100
 * 400 ~ 499: 4 / 100
-* 500 ~ 599: 0 / 100
-* # several questions were locked
-
-## Solutions
-sample solutions in cpp, java, python or ruby.
+* 500 ~ 599: 1 / 100
+* *several questions were locked*
 
 ## Solved Problem List
-
 ---
 ### Problem 001 ~ Problem 099
 
@@ -94,6 +95,7 @@ sample solutions in cpp, java, python or ruby.
 ---
 ### Problem 300 ~ Problem 399
 
+* 306 - Additive Number
 * 307 - Range Sum Query - Mutable
 * 309 - Best Time to Buy and Sell Stock with Cooldown
 * 315 - Count of Smaller Numbers After Self

@@ -1,26 +1,32 @@
 # LeetCode OJ Solution
+
 ---
+
 ## Home
+
 >https://leetcode.com/problemset/algorithms/
 
 ## Solutions
-![cpp](https://img.shields.io/badge/cpp-71-f34b7d.svg)
+
+![cpp](https://img.shields.io/badge/cpp-74-f34b7d.svg)
 ![ruby](https://img.shields.io/badge/ruby-22-701516.svg)
-![python](https://img.shields.io/badge/python-14-3572A5.svg)
+![python](https://img.shields.io/badge/python-16-3572A5.svg)
 ![java](https://img.shields.io/badge/java-3-b07219.svg)
 
 ## Progress
-Total: 72 / 781 questions solved
-* 001 ~ 099: 32 / 099
+
+Total: 74 / 781 questions solved
+
+* 001 ~ 099: 33 / 099
 * 100 ~ 199: 14 / 100
 * 200 ~ 299: 14 / 100
 * 300 ~ 399: 7 / 100
-* 400 ~ 499: 4 / 100
+* 400 ~ 499: 5 / 100
 * 500 ~ 599: 1 / 100
 * *several questions were locked*
 
 ## Solved Problem List
----
+
 ### Problem 001 ~ Problem 099
 
 * 001 - Two Sum
@@ -45,6 +51,7 @@ Total: 72 / 781 questions solved
 * 024 - Swap Nodes in Pairs
 * 025 - Reverse Nodes in k-Group
 * 029 - Divide Two Integers
+* 032 - Longest Valid Parentheses
 * 044 - Wildcard Matching
 * 061 - Rotate List
 * 065 - Valid Number
@@ -57,6 +64,7 @@ Total: 72 / 781 questions solved
 * 093 - Restore IP Addresses
 
 ---
+
 ### Problem 100 ~ Problem 199
 
 * 124 - Binary Tree Maximum Path Sum
@@ -75,6 +83,7 @@ Total: 72 / 781 questions solved
 * 199 - Binary Tree Right Side View
 
 ---
+
 ### Problem 200 ~ Problem 299
 
 * 201 - Bitwise AND of Numbers Range
@@ -93,6 +102,7 @@ Total: 72 / 781 questions solved
 * 273 - Integer to English Words
 
 ---
+
 ### Problem 300 ~ Problem 399
 
 * 306 - Additive Number
@@ -104,19 +114,23 @@ Total: 72 / 781 questions solved
 * 394 - Decode String
 
 ---
+
 ### Problem 400 ~ Problem 499
 
+* 415 - Add Strings
 * 420 - Strong Password Checker
 * 464 - Can I Win
 * 468 - Validate IP Address
 * 493 - Reverse Pairs
 
 ---
+
 ### Problem 500 ~ Problem 599
 
 * 541 - Reverse String II
 
 ---
+
 ### Locked Problems
 
 * 288 - Unique Word Abbreviation

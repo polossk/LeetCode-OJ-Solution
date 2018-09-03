@@ -42,24 +42,24 @@
 #        """
 
 class Solution(object):
-	def deserialize(self, s):
-		"""
-		:type s: str
-		:rtype: NestedInteger
-		"""
-		def nestedInteger():
-			num = ''
-			while s[-1] in '0123456789-':
-				num += s.pop()
-			if num:
-				return NestedInteger(int(num))
-			s.pop()
-			ret = NestedInteger()
-			while s[-1] != ']':
-				ret.add(nestedInteger())
-				if s[-1] == ',':
-					s.pop()
-			s.pop()
-			return ret
-		s = list(' ' + s[::-1])
-		return nestedInteger()
+    def deserialize(self, s):
+        """
+        :type s: str
+        :rtype: NestedInteger
+        """
+        def nestedInteger():
+            num = ''
+            while s[-1] in '0123456789-':
+                num += s.pop()
+            if num:
+                return NestedInteger(int(num))
+            s.pop()
+            ret = NestedInteger()
+            while s[-1] != ']':
+                ret.add(nestedInteger())
+                if s[-1] == ',':
+                    s.pop()
+            s.pop()
+            return ret
+        s = list(' ' + s[::-1])
+        return nestedInteger()

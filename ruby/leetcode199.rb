@@ -11,8 +11,8 @@
 # @return {Integer[]}
 
 def right_side_view(root)
-	return [] if not root
-	right = right_side_view(root.right)
-	left = right_side_view(root.left)
-	return [root.val] + right + left.drop(right.length)
+    return [] if not root
+    right = right_side_view(root.right)
+    left = right_side_view(root.left)
+    return [root.val] + right + left.drop(right.length)
 end

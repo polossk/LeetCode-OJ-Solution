@@ -10,8 +10,8 @@
 # @param {TreeNode} root
 # @return {TreeNode}
 def invert_tree(root)
-	if root
-		root.left, root.right = invert_tree(root.right), invert_tree(root.left)
-	end
-	root
+    if root
+        root.left, root.right = invert_tree(root.right), invert_tree(root.left)
+    end
+    root
 end

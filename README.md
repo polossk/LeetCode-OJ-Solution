@@ -1,33 +1,32 @@
 # LeetCode OJ Solution
 
----
-
 ## Home
 
->https://leetcode.com/problemset/algorithms/
+>EN: https://leetcode.com/problemset/algorithms/
+>CN: https://leetcode-cn.com/problemset/algorithms/
 
 ## Solutions
 
-![cpp](https://img.shields.io/badge/cpp-74-f34b7d.svg)
+![cpp](https://img.shields.io/badge/cpp-75-f34b7d.svg)
 ![ruby](https://img.shields.io/badge/ruby-22-701516.svg)
-![python](https://img.shields.io/badge/python-16-3572A5.svg)
+![python](https://img.shields.io/badge/python-17-3572A5.svg)
 ![java](https://img.shields.io/badge/java-3-b07219.svg)
 
 ## Progress
 
-Total: 74 / 781 questions solved
+Total: 75 / 781 questions solved
 
-* 001 ~ 099: 33 / 099
-* 100 ~ 199: 14 / 100
-* 200 ~ 299: 14 / 100
-* 300 ~ 399: 7 / 100
-* 400 ~ 499: 5 / 100
-* 500 ~ 599: 1 / 100
+* 001 ~ 100: 34 / 100
+* 101 ~ 200: 14 / 100
+* 201 ~ 300: 14 / 100
+* 301 ~ 400: 7 / 100
+* 401 ~ 500: 5 / 100
+* 501 ~ 600: 1 / 100
 * *several questions were locked*
 
 ## Solved Problem List
 
-### Problem 001 ~ Problem 099
+### Problem 001 ~ Problem 100
 
 * 001 - Two Sum
 * 002 - Add Two Numbers
@@ -51,6 +50,7 @@ Total: 74 / 781 questions solved
 * 024 - Swap Nodes in Pairs
 * 025 - Reverse Nodes in k-Group
 * 029 - Divide Two Integers
+* 031 - Next Permutation
 * 032 - Longest Valid Parentheses
 * 044 - Wildcard Matching
 * 061 - Rotate List
@@ -63,9 +63,7 @@ Total: 74 / 781 questions solved
 * 091 - Decode Ways
 * 093 - Restore IP Addresses
 
----
-
-### Problem 100 ~ Problem 199
+### Problem 101 ~ Problem 200
 
 * 124 - Binary Tree Maximum Path Sum
 * 125 - Valid Palindrome
@@ -82,9 +80,7 @@ Total: 74 / 781 questions solved
 * 189 - Rotate Array
 * 199 - Binary Tree Right Side View
 
----
-
-### Problem 200 ~ Problem 299
+### Problem 201 ~ Problem 300
 
 * 201 - Bitwise AND of Numbers Range
 * 204 - Count Primes
@@ -101,9 +97,7 @@ Total: 74 / 781 questions solved
 * 260 - Single Number III
 * 273 - Integer to English Words
 
----
-
-### Problem 300 ~ Problem 399
+### Problem 301 ~ Problem 400
 
 * 306 - Additive Number
 * 307 - Range Sum Query - Mutable
@@ -113,9 +107,7 @@ Total: 74 / 781 questions solved
 * 385 - Mini Parser
 * 394 - Decode String
 
----
-
-### Problem 400 ~ Problem 499
+### Problem 401 ~ Problem 500
 
 * 415 - Add Strings
 * 420 - Strong Password Checker
@@ -123,13 +115,9 @@ Total: 74 / 781 questions solved
 * 468 - Validate IP Address
 * 493 - Reverse Pairs
 
----
-
-### Problem 500 ~ Problem 599
+### Problem 501 ~ Problem 600
 
 * 541 - Reverse String II
-
----
 
 ### Locked Problems
 

@@ -37,22 +37,22 @@
 # @param {String} s
 # @return {NestedInteger}
 def deserialize(s)
-	define_method :dfs do
-		num = ''
-		while not s.empty? and "0123456789-".include? s[-1]
-			num << s[-1]
-			s.chop!
-		end
-		return NestedInteger.new(num.to_i) if not num.empty?
-		s.chop!
-		ret = NestedInteger.new()
-		while s[-1] != ']'
-			ret.add(dfs)
-			s.chop! if s[-1] == ','
-		end
-		s.chop!
-		return ret
-	end
-	s.reverse!
-	return dfs
+    define_method :dfs do
+        num = ''
+        while not s.empty? and "0123456789-".include? s[-1]
+            num << s[-1]
+            s.chop!
+        end
+        return NestedInteger.new(num.to_i) if not num.empty?
+        s.chop!
+        ret = NestedInteger.new()
+        while s[-1] != ']'
+            ret.add(dfs)
+            s.chop! if s[-1] == ','
+        end
+        s.chop!
+        return ret
+    end
+    s.reverse!
+    return dfs
 end

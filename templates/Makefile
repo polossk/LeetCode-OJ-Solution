@@ -1,6 +1,6 @@
 CC      = g++
-EXEC    = main.exe
-CXXFLAGS = -std=c++11 -lm
+EXEC    = main
+CXXFLAGS = -lm
 
 leetcode: leetcode???.cpp
 	$(CC) -o $(EXEC) $< $(CXXFLAGS)

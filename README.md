@@ -2,21 +2,22 @@
 
 ## Home
 
->EN: https://leetcode.com/problemset/algorithms/
->CN: https://leetcode-cn.com/problemset/algorithms/
+> EN: <https://leetcode.com/problemset/algorithms/>
+>
+> CN: <https://leetcode-cn.com/problemset/algorithms/>
 
 ## Solutions
 
-![cpp](https://img.shields.io/badge/cpp-75-f34b7d.svg)
-![ruby](https://img.shields.io/badge/ruby-22-701516.svg)
-![python](https://img.shields.io/badge/python-17-3572A5.svg)
+![cpp](https://img.shields.io/badge/cpp-76-f34b7d.svg)
+![python](https://img.shields.io/badge/python-20-3572A5.svg)
+![ruby](https://img.shields.io/badge/ruby-23-701516.svg)
 ![java](https://img.shields.io/badge/java-3-b07219.svg)
 
 ## Progress
 
-Total: 75 / 781 questions solved
+Total: 76 / 781 questions solved
 
-* 001 ~ 100: 34 / 100
+* 001 ~ 100: 35 / 100
 * 101 ~ 200: 14 / 100
 * 201 ~ 300: 14 / 100
 * 301 ~ 400: 7 / 100
@@ -26,10 +27,14 @@ Total: 75 / 781 questions solved
 
 ## Solved Problem List
 
-### Problem 001 ~ Problem 100
+### Archive#00: Problem 001 ~ Problem 100
 
-* 001 - Two Sum
-* 002 - Add Two Numbers
+| ID  | Problem                                      | cpp                | python3            | ruby               |
+| --- | -------------------------------------------- | ------------------ | ------------------ | ------------------ |
+| 001 | [Two Sum][001]                               | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 002 | [Add Two Numbers][002]                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 017 | [Letter Combinations of a Phone Number][017] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
 * 003 - Longest Substring Without Repeating Characters
 * 004 - Median of Two Sorted Arrays
 * 005 - Longest Palindromic Substring
@@ -63,7 +68,7 @@ Total: 75 / 781 questions solved
 * 091 - Decode Ways
 * 093 - Restore IP Addresses
 
-### Problem 101 ~ Problem 200
+### Archive#01: Problem 101 ~ Problem 200
 
 * 124 - Binary Tree Maximum Path Sum
 * 125 - Valid Palindrome
@@ -80,7 +85,7 @@ Total: 75 / 781 questions solved
 * 189 - Rotate Array
 * 199 - Binary Tree Right Side View
 
-### Problem 201 ~ Problem 300
+### Archive#02: Problem 201 ~ Problem 300
 
 * 201 - Bitwise AND of Numbers Range
 * 204 - Count Primes
@@ -97,7 +102,7 @@ Total: 75 / 781 questions solved
 * 260 - Single Number III
 * 273 - Integer to English Words
 
-### Problem 301 ~ Problem 400
+### Archive#03: Problem 301 ~ Problem 400
 
 * 306 - Additive Number
 * 307 - Range Sum Query - Mutable
@@ -107,7 +112,7 @@ Total: 75 / 781 questions solved
 * 385 - Mini Parser
 * 394 - Decode String
 
-### Problem 401 ~ Problem 500
+### Archive#04: Problem 401 ~ Problem 500
 
 * 415 - Add Strings
 * 420 - Strong Password Checker
@@ -115,7 +120,7 @@ Total: 75 / 781 questions solved
 * 468 - Validate IP Address
 * 493 - Reverse Pairs
 
-### Problem 501 ~ Problem 600
+### Archive#05: Problem 501 ~ Problem 600
 
 * 541 - Reverse String II
 
@@ -124,3 +129,11 @@ Total: 75 / 781 questions solved
 * 288 - Unique Word Abbreviation
 * 308 - Range Sum Query 2D - Mutable
 * 444 - Sequence Reconstruction
+
+<!-- hrefs begin -->
+
+[001]: /archcive%2300-001-100/001-Two%20Sum
+[002]: /archcive%2300-001-100/002-Add%20Two%20Numbers
+[017]: /archcive%2300-001-100/017-Letter%20Combinations%20of%20a%20Phone%20Number
+
+<!-- hrefs end -->

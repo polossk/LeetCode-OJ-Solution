@@ -7,7 +7,7 @@ class Solution:
 
     def __dfs(self, digits: str) -> List[str]:
         return self.__mapping[digits] if len(digits) == 1 else [
-            s_1 + _2 for _1 in self.__mapping[digits[0]]
+            _1 + _2 for _1 in self.__mapping[digits[0]]
             for _2 in self.__dfs(digits[1:])
         ]
 

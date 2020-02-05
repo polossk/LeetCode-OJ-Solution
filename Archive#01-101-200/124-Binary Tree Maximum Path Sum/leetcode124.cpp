@@ -22,20 +22,21 @@ template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
  */
 class Solution {
 
-template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
+    template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
-int dfs(TreeNode* node, int&& re)
-{
-    if (!node) return 0;
-    int l = dfs(node -> left, std::move(re));
-    int r = dfs(node -> right, std::move(re));
-    updateMax(l, 0); updateMax(r, 0);
-    updateMax(re, l + r + node -> val);
-    return node -> val += max(l, r);
-}
+    int dfs(TreeNode* node, int&& ret)
+    {
+        if (!node) return 0;
+        int l = dfs(node->left, std::move(ret));
+        int r = dfs(node->right, std::move(ret));
+        updateMax(l, 0); updateMax(r, 0);
+        updateMax(ret, l + r + node->val);
+        return node->val += max(l, r);
+    }
 
 public:
-    int maxPathSum(TreeNode* root) {
+    int maxPathSum(TreeNode* root)
+    {
         int ret = INT_MIN;
         dfs(root, std::move(ret));
         return ret;

@@ -6,9 +6,9 @@
 
 | Submission                                                        | Runtime | Memory Usage |
 | ----------------------------------------------------------------- | ------- | ------------ |
-| ![cpp](https://img.shields.io/badge/leetcode622-cpp-f34b7d.svg)   | 4 ms    | 8.8 Mb       |
-| ![python](https://img.shields.io/badge/leetcode622-py-3572A5.svg) | -       | -            |
-| ![ruby](https://img.shields.io/badge/leetcode622-rb-701516.svg)   | -       | -            |
+| ![cpp](https://img.shields.io/badge/leetcode494-cpp-f34b7d.svg)   | 4 ms    | 8.8 Mb       |
+| ![python](https://img.shields.io/badge/leetcode494-py-3572A5.svg) | -       | -            |
+| ![ruby](https://img.shields.io/badge/leetcode494-rb-701516.svg)   | -       | -            |
 
 ## DESCRIPTION
 

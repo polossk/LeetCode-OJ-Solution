@@ -2,7 +2,7 @@
 /*****************************************************************************
 *                     ----Stay Hungry Stay Foolish----                       *
 *   @author :   Shen                                                         *
-*   @name   :   Leetcode 415 Add Strings                                     *
+*   @name   :   Leetcode 151                                                 *
 *****************************************************************************/
 
 #include <bits/stdc++.h>
@@ -14,25 +14,25 @@ template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 class Solution
 {
 public:
-    string addStrings(string num1, string num2)
+    string reverseWords(string s)
     {
-        int i = num1.size() - 1;
-        int j = num2.size() - 1;
-        int carry = 0;
-        string res = "";
-        while (i >= 0 || j >= 0 || carry)
+        reverse(s.begin(), s.end());
+        int hoge = 0;
+        for (int i = 0; i < s.size(); i++)
         {
-            int sum = 0;
-            if (i >= 0) { sum += (num1[i] - '0'); i--; }
-            if (j >= 0) { sum += (num2[j] - '0'); j--; }
-            sum += carry;
-            carry = sum / 10;
-            res = to_string(sum % 10) + res;
+            if (s[i] == ' ') continue;
+            if (hoge != 0) s[hoge++] = ' ';
+            int j = i;
+            while (j < s.size() && s[j] != ' ')
+                s[hoge++] = s[j++];
+            reverse(s.begin() + hoge + i - j, s.begin() + hoge);
+            i = j;
         }
-        return res;
+        s.erase(s.begin() + hoge, s.end());
+        return s;
     }
 };
 
 void test() {}
 
-int main() { return 0; }
+int main() { test(); return 0; }

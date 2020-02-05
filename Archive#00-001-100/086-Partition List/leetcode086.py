@@ -1,16 +1,11 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-class Solution(object):
-    def partition(self, head, x):
-        """
-        :type head: ListNode
-        :type x: int
-        :rtype: ListNode
-        """
+class Solution:
+    def partition(self, head: ListNode, x: int) -> ListNode:
         hoge = node1 = ListNode(0)
         fuga = node2 = ListNode(0)
         while head:

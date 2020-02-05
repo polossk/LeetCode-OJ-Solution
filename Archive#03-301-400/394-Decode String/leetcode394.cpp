@@ -12,7 +12,7 @@ template<class T>inline bool updateMin(T& a, T b){ return a > b ? a = b, 1: 0; }
 template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
 class Solution {
-    string _(string s, int&& idx)
+    string dfs(string s, int &&idx)
     {
         string ret;
         while (idx < s.size() && s[idx] != ']')
@@ -22,7 +22,7 @@ class Solution {
                 int n = 0;
                 while (idx < s.size() && isdigit(s[idx]))
                     n = n * 10 + s[idx++] - '0';
-                idx++; string hoge = _(s, std::move(idx)); idx++;
+                idx++; string hoge = dfs(s, std::move(idx)); idx++;
                 while (n-- > 0) ret += hoge;
             }
             else ret += s[idx++];
@@ -30,10 +30,7 @@ class Solution {
         return ret;
     }
 public:
-    string decodeString(string s)
-    {
-        return _(s, 0);
-    }
+    string decodeString(string s) { return dfs(s, 0); }
 };
 
 void test() {}

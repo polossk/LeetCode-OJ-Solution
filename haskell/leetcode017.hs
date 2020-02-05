@@ -28,4 +28,6 @@ dfs' :: String -> [String]
 dfs' [] = [""]
 dfs' (a:b) = cartProd' (mapping a) (dfs' b)
 
+-- input the testcase
 main = putStrLn $ show $ dfs "23"
+-- => ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"]

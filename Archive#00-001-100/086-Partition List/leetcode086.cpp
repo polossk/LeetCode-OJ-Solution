@@ -1,8 +1,8 @@
 // <!-- encoding UTF-8 --!>
 /*****************************************************************************
 *                     ----Stay Hungry Stay Foolish----                       *
-*   @author :   Shen                                                         *
-*   @name   :   Leetcode 083                                                 *
+*   @author	:   Shen                                                         *
+*   @name   :   Leetcode 086                                                 *
 *****************************************************************************/
 
 #include <bits/stdc++.h>
@@ -21,12 +21,22 @@ template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
 class Solution {
 public:
-    ListNode *deleteDuplicates(ListNode *head)
-    {
-        if (!(head && head -> next)) return head;
-        head->next = deleteDuplicates(head->next);
-        return head->val == head->next->val ? head->next : head;
-    }
+	ListNode *partition(ListNode *head, int x)
+	{
+		ListNode node1(0), *hoge = &node1;
+		ListNode node2(0), *fuga = &node2;
+		while (head)
+		{
+			if (head->val < x)
+				hoge = hoge->next = head;
+			else
+				fuga = fuga->next = head;
+			head = head->next;
+		}
+		fuga->next = nullptr;
+		hoge->next = node2.next;
+		return node1.next;
+	}
 };
 
 void test() {}

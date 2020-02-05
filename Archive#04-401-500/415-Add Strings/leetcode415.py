@@ -1,12 +1,7 @@
 import itertools
 
 class Solution:
-    def addStrings(self, num1, num2):
-        """
-        :type num1: str
-        :type num2: str
-        :rtype: str
-        """
+    def addStrings(self, num1: str, num2: str) -> str:
         z = itertools.zip_longest(num1[::-1], num2[::-1], fillvalue='0')
         res, carry, zero2 = [], 0, 2 * ord('0')
         for i in z:

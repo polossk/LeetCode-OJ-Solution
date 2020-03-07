@@ -1,6 +1,6 @@
 # Perfect Squares
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Math](https://img.shields.io/badge/-Math-007ec6.svg) ![Dynamic%20Programming](https://img.shields.io/badge/-Dynamic%20Programming-007ec6.svg) ![Breadth--first%20Search](https://img.shields.io/badge/-Breadth--first%20Search-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) ![Dynamic_Programming](https://img.shields.io/badge/动态规划-Dynamic_Programming-007ec6.svg) ![Breadth--first_Search](https://img.shields.io/badge/广度优先搜索-Breadth--first_Search-007ec6.svg)
 
 ## RESULT
 
@@ -14,7 +14,7 @@
 
 Given a positive integer *n*, find the least number of perfect square numbers (for example, `1, 4, 9, 16, ...`) which sum to *n*.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: n = 12
@@ -22,7 +22,7 @@ Output: 3
 Explanation: 12 = 4 + 4 + 4.
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: n = 13

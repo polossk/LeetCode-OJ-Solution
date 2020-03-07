@@ -1,6 +1,6 @@
 # Longest Substring Without Repeating Characters
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Hash%20Table](https://img.shields.io/badge/-Hash%20Table-007ec6.svg) ![Two%20Pointers](https://img.shields.io/badge/-Two%20Pointers-007ec6.svg) ![String](https://img.shields.io/badge/-String-007ec6.svg) ![Sliding%20Window](https://img.shields.io/badge/-Sliding%20Window-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg) ![Sliding_Window](https://img.shields.io/badge/滑窗法-Sliding_Window-007ec6.svg)
 
 ## RESULT
 

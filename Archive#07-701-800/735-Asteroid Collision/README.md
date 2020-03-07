@@ -1,6 +1,6 @@
 # Asteroid Collision
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Stack](https://img.shields.io/badge/-Stack-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg)
 
 ## RESULT
 
@@ -23,7 +23,7 @@ Find out the state of the asteroids after all collisions. If two asteroids meet,
 * The length of `asteroids` will be at most `10000`.
 * Each asteroid will be a non-zero integer in the range `[-1000, 1000]`.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: 
@@ -33,7 +33,7 @@ Explanation:
 The 10 and -5 collide resulting in 10.  The 5 and 10 never collide.
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: 
@@ -43,7 +43,7 @@ Explanation:
 The 8 and -8 collide exploding each other.
 ```
 
-## Example 3:
+## EXAMPLE 3
 
 ```plain
 Input: 

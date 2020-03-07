@@ -1,6 +1,6 @@
 # Design Circular Queue
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Design](https://img.shields.io/badge/-Design-007ec6.svg) ![Queue](https://img.shields.io/badge/-Queue-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Design](https://img.shields.io/badge/设计-Design-007ec6.svg) ![Queue](https://img.shields.io/badge/队列-Queue-007ec6.svg)
 
 ## RESULT
 
@@ -32,7 +32,7 @@ Your implementation should support following operations:
 * The number of operations will be in the range of [1, 1000].
 * Please do not use the built-in Queue library.
 
-## EXAMPLE:
+## EXAMPLE
 
 ```cpp
 MyCircularQueue circularQueue = new MyCircularQueue(3); // set the size to be 3

@@ -1,6 +1,6 @@
 # Remove Duplicates from Sorted List II
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Linked%20List](https://img.shields.io/badge/-Linked%20List-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg)
 
 ## RESULT
 

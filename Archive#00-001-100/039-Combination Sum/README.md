@@ -1,6 +1,6 @@
 # Combination Sum
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Array](https://img.shields.io/badge/-Array-007ec6.svg) ![Backtracking](https://img.shields.io/badge/-Backtracking-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Backtracking](https://img.shields.io/badge/回溯法-Backtracking-007ec6.svg)
 
 ## RESULT
 
@@ -21,7 +21,7 @@ The **same** repeated number may be chosen from `candidates` unlimited number of
 * All numbers (including target) will be positive integers.
 * The solution set must not contain duplicate combinations.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: candidates = [2,3,6,7], target = 7,
@@ -32,7 +32,7 @@ A solution set is:
 ]
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: candidates = [2,3,5], target = 8,

@@ -1,6 +1,6 @@
 # Maximum Product of Word Lengths
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Stack](https://img.shields.io/badge/-Stack-007ec6.svg) ![Depth--first%20Search](https://img.shields.io/badge/-Depth--first%20Search-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg) ![Depth--first_Search](https://img.shields.io/badge/深度优先搜索-Depth--first_Search-007ec6.svg)
 
 ## RESULT
 
@@ -20,7 +20,7 @@ You may assume that the input string is always valid; No extra white spaces, squ
 
 Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, *k*. For example, there won't be input like `3a` or `2[4]`.
 
-## EXAMPLE:
+## EXAMPLE
 
 ```plain
 s = "3[a]2[bc]", return "aaabcbc".

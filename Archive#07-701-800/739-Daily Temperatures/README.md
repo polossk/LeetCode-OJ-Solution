@@ -1,6 +1,6 @@
 # Daily Temperatures
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Hash%20Table](https://img.shields.io/badge/-Hash%20Table-007ec6.svg) ![Stack](https://img.shields.io/badge/-Stack-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg)
 
 ## RESULT
 

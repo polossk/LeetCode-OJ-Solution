@@ -1,6 +1,6 @@
 # Maximum Product of Word Lengths
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit%20Manipulation](https://img.shields.io/badge/-Bit%20Manipulation-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit_Manipulation](https://img.shields.io/badge/位运算-Bit_Manipulation-007ec6.svg)
 
 ## RESULT
 
@@ -19,7 +19,7 @@ Given a string array `words`, find the maximum value of `length(word[i]) * lengt
 * The length of `asteroids` will be at most `10000`.
 * Each asteroid will be a non-zero integer in the range `[-1000, 1000]`.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: ["abcw","baz","foo","bar","xtfn","abcdef"]
@@ -27,7 +27,7 @@ Output: 16
 Explanation: The two words can be "abcw", "xtfn".
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: ["a","ab","abc","d","cd","bcd","abcd"]
@@ -35,7 +35,7 @@ Output: 4
 Explanation: The two words can be "ab", "cd".
 ```
 
-## Example 3:
+## EXAMPLE 3
 
 ```plain
 Input: ["a","aa","aaa","aaaa"]

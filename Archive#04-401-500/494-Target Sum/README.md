@@ -1,6 +1,6 @@
 # Target Sum
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Dynamic%20Programming](https://img.shields.io/badge/-Dynamic%20Programming-007ec6.svg) ![Depth--first%20Search](https://img.shields.io/badge/-Depth--first%20Search-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Dynamic_Programming](https://img.shields.io/badge/动态规划-Dynamic_Programming-007ec6.svg) ![Depth--first_Search](https://img.shields.io/badge/深度优先搜索-Depth--first_Search-007ec6.svg)
 
 ## RESULT
 
@@ -22,7 +22,7 @@ Find out how many ways to assign symbols to make sum of integers equal to target
 2. The sum of elements in the given array will not exceed 1000.
 3. Your output answer is guaranteed to be fitted in a 32-bit integer.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: nums is [1, 1, 1, 1, 1], S is 3. 

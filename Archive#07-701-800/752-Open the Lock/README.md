@@ -1,6 +1,6 @@
 # Open the Lock
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Breadth--first%20Search](https://img.shields.io/badge/-Breadth--first%20Search-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Breadth--first_Search](https://img.shields.io/badge/广度优先搜索-Breadth--first_Search-007ec6.svg)
 
 ## RESULT
 
@@ -26,7 +26,7 @@ Given a `target` representing the value of the wheels that will unlock the lock,
 2. `target` will not be in the list `deadends`.
 3. Every string in `deadends` and the string `target` will be a string of 4 digits from the 10,000 possibilities `'0000'` to `'9999'`.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: deadends = ["0201","0101","0102","1212","2002"], target = "0202"
@@ -37,7 +37,7 @@ Note that a sequence like "0000" -> "0001" -> "0002" -> "0102" -> "0202" would b
 because the wheels of the lock become stuck after the display becomes the dead end "0102".
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: deadends = ["8888"], target = "0009"
@@ -46,7 +46,7 @@ Explanation:
 We can turn the last wheel in reverse to move from "0000" -> "0009".
 ```
 
-## Example 3:
+## EXAMPLE 3
 
 ```plain
 Input: deadends = ["8887","8889","8878","8898","8788","8988","7888","9888"], target = "8888"

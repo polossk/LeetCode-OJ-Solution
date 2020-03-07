@@ -1,6 +1,6 @@
 # Bitwise AND of Numbers Range
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit%20Manipulation](https://img.shields.io/badge/-Bit%20Manipulation-007ec6.svg)
+![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit_Manipulation](https://img.shields.io/badge/位运算-Bit_Manipulation-007ec6.svg)
 
 ## RESULT
 
@@ -15,14 +15,14 @@
 
 Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
 
-## EXAMPLE 1:
+## EXAMPLE 1
 
 ```plain
 Input: [5,7]
 Output: 4
 ```
 
-## Example 2:
+## EXAMPLE 2
 
 ```plain
 Input: [0,1]

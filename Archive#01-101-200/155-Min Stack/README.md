@@ -1,6 +1,6 @@
 # Min Stack
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Stack](https://img.shields.io/badge/-Stack-007ec6.svg) ![Design](https://img.shields.io/badge/-Design-007ec6.svg)
+![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg) ![Design](https://img.shields.io/badge/设计-Design-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Binary Tree Maximum Path Sum
 
- ![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Tree](https://img.shields.io/badge/-Tree-007ec6.svg) ![Depth--first%20Search](https://img.shields.io/badge/-Depth--first%20Search-007ec6.svg)
+ ![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Tree](https://img.shields.io/badge/树-Tree-007ec6.svg) ![Depth--first_Search](https://img.shields.io/badge/深度优先搜索-Depth--first_Search-007ec6.svg)
 
 ## RESULT
 

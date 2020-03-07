@@ -1,6 +1,6 @@
 # Add Strings
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![String](https://img.shields.io/badge/-String-007ec6.svg)
+![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
 
 ## RESULT
 

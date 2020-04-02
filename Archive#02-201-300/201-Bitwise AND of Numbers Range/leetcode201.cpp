@@ -11,8 +11,22 @@ typedef long long int64;
 template<class T>inline bool updateMin(T& a, T b){ return a > b ? a = b, 1: 0; }
 template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
-class Solution {
+class Solution
+{
 public:
+    int rangeBitwiseAnd(int m, int n)
+    {
+        int ret = 0;
+        for (int i = 0; i < 32 && n; i++)
+        {
+            int flag = n == m;
+            int tmp = (flag & n) << i;
+            ret ^= tmp;
+            m /= 2;
+            n /= 2;
+        }
+        return ret;
+    }
     int rangeBitwiseAnd(int m, int n)
     {
         int hoge = m ^ n, ret = 0;

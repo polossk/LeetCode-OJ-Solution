@@ -22,7 +22,7 @@ Find out how many ways to assign symbols to make sum of integers equal to target
 2. The sum of elements in the given array will not exceed 1000.
 3. Your output answer is guaranteed to be fitted in a 32-bit integer.
 
-## EXAMPLE 1
+## EXAMPLE
 
 ```plain
 Input: nums is [1, 1, 1, 1, 1], S is 3. 
@@ -52,7 +52,8 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 ### C++
 
 ```cpp
-class Solution {
+class Solution
+{
     using int64 = long long;
 public:
     int findTargetSumWays(vector<int>& nums, int S)
@@ -62,12 +63,8 @@ public:
         int T = (sum + S) >> 1;
         vector<int> dp(T + 1, 0); dp[0] = 1;
         for (auto e : nums)
-        {
             for (int j = T; j >= e; j--)
-            {
                 dp[j] += dp[j - e];
-            }
-        }
         return dp[T];
     }
 };

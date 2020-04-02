@@ -41,8 +41,22 @@ Output: 0
 ### C++
 
 ```cpp
-class Solution {
+class Solution
+{
 public:
+    int rangeBitwiseAnd(int m, int n)
+    {
+        int ret = 0;
+        for (int i = 0; i < 32 && n; i++)
+        {
+            int flag = n == m;
+            int tmp = (flag & n) << i;
+            ret ^= tmp;
+            m /= 2;
+            n /= 2;
+        }
+        return ret;
+    }
     int rangeBitwiseAnd(int m, int n)
     {
         int hoge = m ^ n, ret = 0;

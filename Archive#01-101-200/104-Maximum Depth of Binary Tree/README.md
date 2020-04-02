@@ -6,9 +6,9 @@
 
 | Submission                                                        | Runtime | Memory Usage |
 | ----------------------------------------------------------------- | ------- | ------------ |
-| ![cpp](https://img.shields.io/badge/leetcode543-cpp-f34b7d.svg)   | 16 ms   | 18.6 Mb      |
-| ![python](https://img.shields.io/badge/leetcode543-py-3572A5.svg) | 44 ms   | 15 Mb        |
-| ![ruby](https://img.shields.io/badge/leetcode543-rb-701516.svg)   | -       | -            |
+| ![cpp](https://img.shields.io/badge/leetcode104-cpp-f34b7d.svg)   | 16 ms   | 18.6 Mb      |
+| ![python](https://img.shields.io/badge/leetcode104-py-3572A5.svg) | 44 ms   | 15 Mb        |
+| ![ruby](https://img.shields.io/badge/leetcode104-rb-701516.svg)   | 40 ms   | 9.8 Mb       |
 
 ## DESCRIPTION
 
@@ -86,3 +86,31 @@ class Solution:
 
 ### Ruby
 
+```ruby
+# Definition for a binary tree node.
+# class TreeNode
+#     attr_accessor :val, :left, :right
+#     def initialize(val)
+#         @val = val
+#         @left, @right = nil, nil
+#     end
+# end
+
+# @param {TreeNode} root
+# @return {Integer}
+def dfs(node)
+  return 0 unless node
+  1 + [dfs(node.left), dfs(node.right)].max
+end
+
+# @param {TreeNode} root
+# @return {Integer}
+def max_depth(root)
+  # dfs = lambda { |node| 
+  #   return 0 unless node
+  #   1 + [dfs.call(node.left), dfs.call(node.right)].max
+  # }
+  # dfs.call(root)
+  dfs(root)
+end
+```

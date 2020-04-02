@@ -21,22 +21,22 @@ template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
 class Solution {
 public:
-	ListNode *partition(ListNode *head, int x)
-	{
-		ListNode node1(0), *hoge = &node1;
-		ListNode node2(0), *fuga = &node2;
-		while (head)
-		{
-			if (head->val < x)
-				hoge = hoge->next = head;
-			else
-				fuga = fuga->next = head;
-			head = head->next;
-		}
-		fuga->next = nullptr;
-		hoge->next = node2.next;
-		return node1.next;
-	}
+    ListNode *partition(ListNode *head, int x)
+    {
+        ListNode node1(0), *hoge = &node1;
+        ListNode node2(0), *fuga = &node2;
+        while (head)
+        {
+            if (head->val < x)
+                hoge = hoge->next = head;
+            else
+                fuga = fuga->next = head;
+            head = head->next;
+        }
+        fuga->next = nullptr;
+        hoge->next = node2.next;
+        return node1.next;
+    }
 };
 
 void test() {}

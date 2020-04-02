@@ -11,7 +11,8 @@ typedef long long int64;
 template<class T>inline bool updateMin(T& a, T b){ return a > b ? a = b, 1: 0; }
 template<class T>inline bool updateMax(T& a, T b){ return a < b ? a = b, 1: 0; }
 
-class Solution {
+class Solution
+{
     using int64 = long long;
 public:
     int findTargetSumWays(vector<int>& nums, int S)
@@ -21,12 +22,8 @@ public:
         int T = (sum + S) >> 1;
         vector<int> dp(T + 1, 0); dp[0] = 1;
         for (auto e : nums)
-        {
             for (int j = T; j >= e; j--)
-            {
                 dp[j] += dp[j - e];
-            }
-        }
         return dp[T];
     }
 };

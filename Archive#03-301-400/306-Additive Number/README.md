@@ -18,8 +18,6 @@ A valid additive sequence should contain **at least** three numbers. Except for 
 
 Given a string containing only digits `'0'-'9'`, write a function to determine if it's an additive number.
 
-**Note:** Numbers in the additive sequence **cannot** have leading zeros, so sequence `1`, `2`, `03` or `1`, `02`, `3` is invalid.
-
 ## EXAMPLE 1
 
 ```plain
@@ -37,6 +35,10 @@ Output: true
 Explanation: The additive sequence is: 1, 99, 100, 199. 
              1 + 99 = 100, 99 + 100 = 199
 ```
+
+## NOTE
+
+Numbers in the additive sequence **cannot** have leading zeros, so sequence `1`, `2`, `03` or `1`, `02`, `3` is invalid.
 
 ## CONSTRAINTS
 

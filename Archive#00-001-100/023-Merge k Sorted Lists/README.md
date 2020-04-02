@@ -1,6 +1,6 @@
 # Binary Tree Maximum Path Sum
 
- ![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg)
+![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg)
 
 ## RESULT
 
@@ -121,5 +121,31 @@ class Solution:
 ### Ruby
 
 ```ruby
+# Definition for singly-linked list.
+# class ListNode
+#   attr_accessor :val, :next
+#   def initialize(val)
+#     @val = val
+#     @next = nil
+#   end
+# end
 
+# @param {ListNode[]} lists
+# @return {ListNode}
+def merge_k_lists( lists )
+  head = ListNode.new(0)
+  p = head
+  data = []
+  lists.each { |e|
+    while (e != nil)
+      data << e.val
+      e = e.next
+    end
+  }
+  data.sort.each { |e|
+    p.next = ListNode.new(e)
+    p = p.next
+  }
+  head.next
+end
 ```

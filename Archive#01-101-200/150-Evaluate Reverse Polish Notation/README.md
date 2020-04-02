@@ -61,29 +61,31 @@ Explanation:
 ### C++
 
 ```cpp
-class MinStack {
-private:
-    stack<int> dat_, min_;
-public:
-    /** initialize your data structure here. */
-    MinStack() {}
-    
-    void push(int x)
+class Solution {
+    map<string, std::function<int(int, int)>> op
     {
-        dat_.push(x);
-        if (min_.empty()) min_.push(x);
-        else
+        {"+", [](int a, int b)->int { return a + b; }},
+        {"-", [](int a, int b)->int { return a - b; }},
+        {"*", [](int a, int b)->int { return a * b; }},
+        {"/", [](int a, int b)->int { return a / b; }},
+    };
+
+public:
+    int evalRPN(vector<string>& tokens)
+    {
+        stack<int> host;
+        for (auto &str : tokens)
         {
-            int tmp = min_.top();
-            min_.push(x < tmp ? x : tmp);
+            if (op.count(str))
+            {
+                int rhs = host.top(); host.pop();
+                int lhs = host.top(); host.pop();
+                host.push(op[str](lhs, rhs));
+            }
+            else host.push(atoi(str.c_str()));
         }
+        return host.top();
     }
-    
-    inline void pop() { dat_.pop(); min_.pop(); }
-    
-    inline int top() { return dat_.top(); }
-    
-    inline int getMin() { return min_.top(); }
 };
 ```
 

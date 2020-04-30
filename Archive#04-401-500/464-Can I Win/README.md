@@ -1,6 +1,6 @@
 # Can I Win
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Dynamic_Programming](https://img.shields.io/badge/动态规划-Dynamic_Programming-007ec6.svg) ![Minimax](https://img.shields.io/badge/极小极大算法-Minimax-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Dynamic_Programming](../../materials/动态规划-Dynamic_Programming-007ec6.svg) ![Minimax](../../materials/极小极大算法-Minimax-007ec6.svg)
 
 ## RESULT
 

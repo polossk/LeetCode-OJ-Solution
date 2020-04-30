@@ -1,6 +1,6 @@
 # Integer to English Words
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Math](../../materials/数学-Math-007ec6.svg) ![String](../../materials/字符串-String-007ec6.svg)
 
 ## RESULT
 

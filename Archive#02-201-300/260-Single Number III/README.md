@@ -1,6 +1,6 @@
 # Single Number III
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit_Manipulation](https://img.shields.io/badge/位运算-Bit_Manipulation-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Bit_Manipulation](../../materials/位运算-Bit_Manipulation-007ec6.svg)
 
 ## RESULT
 

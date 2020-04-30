@@ -1,6 +1,6 @@
 # Majority Element
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Bit_Manipulation](https://img.shields.io/badge/位运算-Bit_Manipulation-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg) ![Bit_Manipulation](../../materials/位运算-Bit_Manipulation-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # 最小的 k 个数
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Heap](../../materials/堆-Heap-007ec6.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg)
 
 ## RESULT
 

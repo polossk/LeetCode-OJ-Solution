@@ -1,6 +1,6 @@
 # 数组中的逆序对
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![MergeSort](https://img.shields.io/badge/归并排序-MergeSort-009688.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![MergeSort](../../materials/归并排序-MergeSort-009688.svg)
 
 ## RESULT
 

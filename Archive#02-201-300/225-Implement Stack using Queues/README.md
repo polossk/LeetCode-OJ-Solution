@@ -1,6 +1,6 @@
 # Implement Stack using Queues
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg) ![Design](https://img.shields.io/badge/设计-Design-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Stack](../../materials/堆栈-Stack-007ec6.svg) ![Design](../../materials/设计-Design-007ec6.svg)
 
 ## RESULT
 

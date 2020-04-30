@@ -1,6 +1,6 @@
 # Last Stone Weight
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg) ![Greedy](https://img.shields.io/badge/贪心-Greedy-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Heap](../../materials/堆-Heap-007ec6.svg) ![Greedy](../../materials/贪心-Greedy-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Permutations
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Backtracking](https://img.shields.io/badge/回溯法-Backtracking-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Backtracking](../../materials/回溯法-Backtracking-007ec6.svg)
 
 ## RESULT
 

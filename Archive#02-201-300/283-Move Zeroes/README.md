@@ -1,6 +1,6 @@
 # Move Zeroes
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Two_Pointers](../../materials/双指针法-Two_Pointers-007ec6.svg)
 
 ## RESULT
 

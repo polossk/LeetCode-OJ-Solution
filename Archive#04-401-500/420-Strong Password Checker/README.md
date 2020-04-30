@@ -1,6 +1,6 @@
 # Strong Password Checker
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Structured_Approach](https://img.shields.io/badge/构造法-Structured_Approach-009688.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Structured_Approach](../../materials/构造法-Structured_Approach-009688.svg)
 
 ## RESULT
 

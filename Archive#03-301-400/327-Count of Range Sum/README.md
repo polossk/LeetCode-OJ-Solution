@@ -1,6 +1,6 @@
 # Count of Range Sum
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Binary_Search](https://img.shields.io/badge/二分查找-Binary_Search-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Sort](https://img.shields.io/badge/排序-Sort-007ec6.svg) ![Binary_Indexed_Tree](https://img.shields.io/badge/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](https://img.shields.io/badge/线段树-Segment_Tree-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Binary_Search](../../materials/二分查找-Binary_Search-007ec6.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg) ![Sort](../../materials/排序-Sort-007ec6.svg) ![Binary_Indexed_Tree](../../materials/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](../../materials/线段树-Segment_Tree-007ec6.svg)
 
 ## RESULT
 

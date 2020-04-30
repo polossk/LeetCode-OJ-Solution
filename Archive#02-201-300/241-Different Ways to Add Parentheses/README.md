@@ -1,6 +1,6 @@
 # Different Ways to Add Parentheses
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg)
 ## RESULT
 
 | Submission                                                        | Runtime | Memory Usage |

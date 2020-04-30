@@ -1,6 +1,6 @@
 # Edit Distance
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg) ![Dynamic_Programming](https://img.shields.io/badge/动态规划-Dynamic_Programming-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![String](../../materials/字符串-String-007ec6.svg) ![Dynamic_Programming](../../materials/动态规划-Dynamic_Programming-007ec6.svg)
 
 ## RESULT
 

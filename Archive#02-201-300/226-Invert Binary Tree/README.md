@@ -1,6 +1,6 @@
 # Invert Binary Tree
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Tree](https://img.shields.io/badge/树-Tree-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Tree](../../materials/树-Tree-007ec6.svg)
 
 ## RESULT
 

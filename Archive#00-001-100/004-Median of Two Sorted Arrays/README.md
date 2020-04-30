@@ -1,6 +1,6 @@
 # Median of Two Sorted Arrays
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Binary_Search](https://img.shields.io/badge/二分查找-Binary_Search-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Binary_Search](../../materials/二分查找-Binary_Search-007ec6.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg)
 
 ## RESULT
 

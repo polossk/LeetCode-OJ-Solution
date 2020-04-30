@@ -1,6 +1,6 @@
 # Text Justification
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![String](../../materials/字符串-String-007ec6.svg)
 
 ## RESULT
 

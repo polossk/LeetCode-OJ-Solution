@@ -1,6 +1,6 @@
 # Surface Area of 3D Shapes
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) ![Geometry](https://img.shields.io/badge/几何-Geometry-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Math](../../materials/数学-Math-007ec6.svg) ![Geometry](../../materials/几何-Geometry-007ec6.svg)
 
 ## RESULT
 

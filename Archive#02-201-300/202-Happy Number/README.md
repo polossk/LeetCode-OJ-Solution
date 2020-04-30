@@ -1,6 +1,6 @@
 # Happy Number
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg) ![Math](../../materials/数学-Math-007ec6.svg)
 
 ## RESULT
 

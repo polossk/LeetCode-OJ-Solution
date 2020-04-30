@@ -1,6 +1,6 @@
 # Water and Jug Problem
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Math](../../materials/数学-Math-007ec6.svg)
 
 ## RESULT
 

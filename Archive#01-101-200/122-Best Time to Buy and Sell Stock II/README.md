@@ -1,6 +1,6 @@
 # Best Time to Buy and Sell Stock II
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Greedy](https://img.shields.io/badge/贪心-Greedy-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Greedy](../../materials/贪心-Greedy-007ec6.svg)
 
 ## RESULT
 

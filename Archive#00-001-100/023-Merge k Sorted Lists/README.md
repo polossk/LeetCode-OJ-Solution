@@ -1,6 +1,6 @@
 # Binary Tree Maximum Path Sum
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Linked_List](../../materials/链表-Linked_List-007ec6.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](../../materials/堆-Heap-007ec6.svg)
 
 ## RESULT
 

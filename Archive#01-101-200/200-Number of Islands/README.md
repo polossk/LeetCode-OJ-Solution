@@ -1,6 +1,6 @@
 # Number of Islands
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Depth--first_Search](https://img.shields.io/badge/深度优先搜索-Depth--first_Search-007ec6.svg) ![Breadth--first_Search](https://img.shields.io/badge/广度优先搜索-Breadth--first_Search-007ec6.svg) ![Union_Find](https://img.shields.io/badge/并查集-Union_Find-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Depth--first_Search](../../materials/深度优先搜索-Depth--first_Search-007ec6.svg) ![Breadth--first_Search](../../materials/广度优先搜索-Breadth--first_Search-007ec6.svg) ![Union_Find](../../materials/并查集-Union_Find-007ec6.svg)
 
 ## RESULT
 

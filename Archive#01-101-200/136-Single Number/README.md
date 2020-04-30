@@ -1,6 +1,6 @@
 # Single Number
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![Bit_Manipulation](https://img.shields.io/badge/位运算-Bit_Manipulation-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg) ![Bit_Manipulation](../../materials/位运算-Bit_Manipulation-007ec6.svg)
 
 ## RESULT
 

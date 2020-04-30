@@ -1,6 +1,6 @@
 # The Skyline Problem
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Divide_and_Conquer](https://img.shields.io/badge/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](https://img.shields.io/badge/堆-Heap-007ec6.svg) ![Binary_Indexed_Tree](https://img.shields.io/badge/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](https://img.shields.io/badge/线段树-Segment_Tree-007ec6.svg) ![Line_Sweep](https://img.shields.io/badge/扫描线-Line_Sweep-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Divide_and_Conquer](../../materials/分治法-Divide_and_Conquer-007ec6.svg) ![Heap](../../materials/堆-Heap-007ec6.svg) ![Binary_Indexed_Tree](../../materials/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](../../materials/线段树-Segment_Tree-007ec6.svg) ![Line_Sweep](../../materials/扫描线-Line_Sweep-007ec6.svg)
 
 ## RESULT
 

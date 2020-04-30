@@ -1,6 +1,6 @@
 # Contains Duplicate III
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Sort](https://img.shields.io/badge/排序-Sort-007ec6.svg) ![Ordered_Map](https://img.shields.io/badge/保序映射-Ordered_Map-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Sort](../../materials/排序-Sort-007ec6.svg) ![Ordered_Map](../../materials/保序映射-Ordered_Map-007ec6.svg)
 
 ## RESULT
 

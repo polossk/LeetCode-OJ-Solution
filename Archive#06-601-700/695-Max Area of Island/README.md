@@ -1,6 +1,6 @@
 # Max Area of Island
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Depth--first_Search](https://img.shields.io/badge/深度优先搜索-Depth--first_Search-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Depth--first_Search](../../materials/深度优先搜索-Depth--first_Search-007ec6.svg)
 
 ## RESULT
 

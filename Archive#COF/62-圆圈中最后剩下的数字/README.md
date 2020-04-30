@@ -1,6 +1,6 @@
 # 圆圈中最后剩下的数字
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Simulation_Method](https://img.shields.io/badge/模拟法-Simulation_Method-009688.svg) ![Josephus](https://img.shields.io/badge/约瑟夫环-Josephus-009688.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Simulation_Method](../../materials/模拟法-Simulation_Method-009688.svg) ![Josephus](../../materials/约瑟夫环-Josephus-009688.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Max Points on a Line
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg) ![Math](../../materials/数学-Math-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Short Encoding of Words
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Structured_Approach](https://img.shields.io/badge/构造法-Structured_Approach-009688.svg) ![Tire2](https://img.shields.io/badge/Tire树-Tire-009688.svg) 
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Structured_Approach](../../materials/构造法-Structured_Approach-009688.svg) ![Tire2](../../materials/Tire树-Tire-009688.svg) 
 
 ## RESULT
 

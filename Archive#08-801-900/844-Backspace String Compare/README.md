@@ -1,6 +1,6 @@
 # Backspace String Compare
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Two_Pointers](../../materials/双指针法-Two_Pointers-007ec6.svg) ![Stack](../../materials/堆栈-Stack-007ec6.svg)
 
 ## RESULT
 

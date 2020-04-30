@@ -1,6 +1,6 @@
 # Add Two Numbers II
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Linked_List](../../materials/链表-Linked_List-007ec6.svg)
 
 ## RESULT
 

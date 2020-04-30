@@ -1,6 +1,6 @@
 # Construct Binary Search Tree from Preorder Traversal
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Tree](https://img.shields.io/badge/树-Tree-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Tree](../../materials/树-Tree-007ec6.svg)
 
 ## RESULT
 

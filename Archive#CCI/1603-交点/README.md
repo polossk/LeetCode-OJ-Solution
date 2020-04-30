@@ -1,6 +1,6 @@
 # 交点
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Geometry](https://img.shields.io/badge/几何-Geometry-007ec6.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) 
+![Hard](../../materials/-Hard-e05d44.svg) ![Geometry](../../materials/几何-Geometry-007ec6.svg) ![Math](../../materials/数学-Math-007ec6.svg) 
 
 ## RESULT
 

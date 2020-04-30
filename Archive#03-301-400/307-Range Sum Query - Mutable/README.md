@@ -1,6 +1,6 @@
 # Range Sum Query - Mutable
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Binary_Indexed_Tree](https://img.shields.io/badge/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](https://img.shields.io/badge/线段树-Segment_Tree-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Binary_Indexed_Tree](../../materials/树状数组-Binary_Indexed_Tree-007ec6.svg) ![Segment_Tree](../../materials/线段树-Segment_Tree-007ec6.svg)
 
 ## RESULT
 

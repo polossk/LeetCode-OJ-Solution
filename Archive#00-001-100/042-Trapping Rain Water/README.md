@@ -1,6 +1,6 @@
 # Trapping Rain Water
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Two_Pointers](../../materials/双指针法-Two_Pointers-007ec6.svg) ![Stack](../../materials/堆栈-Stack-007ec6.svg)
 
 ## RESULT
 

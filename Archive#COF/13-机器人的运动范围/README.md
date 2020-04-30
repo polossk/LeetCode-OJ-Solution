@@ -1,6 +1,6 @@
 # 机器人的运动范围
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Searching_Method](https://img.shields.io/badge/搜索法-Searching_Method-009688.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Searching_Method](../../materials/搜索法-Searching_Method-009688.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # 数组中数字出现的次数
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Bit_Manipulation2](https://img.shields.io/badge/位运算-Bit_Manipulation-009688.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Bit_Manipulation2](../../materials/位运算-Bit_Manipulation-009688.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Subarray Sum Equals K
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg)
 
 ## RESULT
 

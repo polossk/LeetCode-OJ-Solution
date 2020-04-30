@@ -1,6 +1,6 @@
 # Roman to Integer
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Math](../../materials/数学-Math-007ec6.svg) ![String](../../materials/字符串-String-007ec6.svg)
 
 ## RESULT
 

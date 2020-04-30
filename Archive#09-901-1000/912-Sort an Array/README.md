@@ -1,6 +1,6 @@
 # Sort an Array
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![QuickSort](https://img.shields.io/badge/快速排序-QuickSort-009688.svg) ![MergeSort](https://img.shields.io/badge/归并排序-MergeSort-009688.svg) ![ShellSort](https://img.shields.io/badge/希尔排序-ShellSort-009688.svg) ![HeapSort](https://img.shields.io/badge/堆排序-HeapSort-009688.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![QuickSort](../../materials/快速排序-QuickSort-009688.svg) ![MergeSort](../../materials/归并排序-MergeSort-009688.svg) ![ShellSort](../../materials/希尔排序-ShellSort-009688.svg) ![HeapSort](../../materials/堆排序-HeapSort-009688.svg)
 
 ## RESULT
 

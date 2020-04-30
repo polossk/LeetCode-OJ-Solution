@@ -1,6 +1,6 @@
 # Implement Trie (Prefix Tree)
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Design](https://img.shields.io/badge/设计-Design-007ec6.svg) ![Tire](https://img.shields.io/badge/Tire树-Tire-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Design](../../materials/设计-Design-007ec6.svg) ![Tire](../../materials/Tire树-Tire-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,7 @@
 # Count Number of Nice Subarrays
 
- ![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Two_Pointers](../../materials/双指针法-Two_Pointers-007ec6.svg)
+
 ## RESULT
 
 | Submission                                                         | Runtime | Memory Usage |

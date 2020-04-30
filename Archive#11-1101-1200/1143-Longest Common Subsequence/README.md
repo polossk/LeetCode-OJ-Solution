@@ -1,6 +1,6 @@
 # Longest Common Subsequence
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Dynamic_Programming](https://img.shields.io/badge/动态规划-Dynamic_Programming-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Dynamic_Programming](../../materials/动态规划-Dynamic_Programming-007ec6.svg)
 
 ## RESULT
 

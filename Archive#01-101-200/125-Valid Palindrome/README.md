@@ -1,6 +1,6 @@
 # Maximum Depth of Binary Tree
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Two_Pointers](https://img.shields.io/badge/双指针法-Two_Pointers-007ec6.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Two_Pointers](../../materials/双指针法-Two_Pointers-007ec6.svg) ![String](../../materials/字符串-String-007ec6.svg)
 
 ## RESULT
 

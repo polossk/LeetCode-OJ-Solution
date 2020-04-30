@@ -1,6 +1,6 @@
 # Basic Calculator
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Math](https://img.shields.io/badge/数学-Math-007ec6.svg) ![Stack](https://img.shields.io/badge/堆栈-Stack-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Math](../../materials/数学-Math-007ec6.svg) ![Stack](../../materials/堆栈-Stack-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Group Anagrams
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg) ![String](../../materials/字符串-String-007ec6.svg)
 
 ## RESULT
 

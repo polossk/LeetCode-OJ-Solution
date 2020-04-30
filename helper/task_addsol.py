@@ -289,11 +289,12 @@ def main():
             if line[0] != '*': continue
             if head != line[:len(head)]: continue
             things = line.split()
-            header, rest = " ".join(things[:2]), [_.strip(',') for _ in things[2:]]
+            header, rest = " ".join(things[:2]), [_.strip(',') for _ in things[3:]]
             rest.extend([f"[{sol}][{sol}]" for sol in sols])
             rest = list(set(rest))
             rest.sort(key=cmpkey_href_id)
-            host[idx] = header + " " + ", ".join(rest) + "\n"
+            # host[idx] = header + " " + ", ".join(rest) + "\n"
+            host[idx] = header + " ({}): ".format(len(rest)) + ", ".join(rest) + "\n"
             # print(6, host[idx:idx+2])
             # input()
             break

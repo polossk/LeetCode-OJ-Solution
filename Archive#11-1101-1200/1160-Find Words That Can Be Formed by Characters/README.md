@@ -1,6 +1,6 @@
 # Find Words That Can Be Formed by Characters
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Hash_Table](https://img.shields.io/badge/哈希表-Hash_Table-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Hash_Table](../../materials/哈希表-Hash_Table-007ec6.svg)
 
 ## RESULT
 

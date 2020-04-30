@@ -1,6 +1,6 @@
 # Valid Parentheses
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![String](https://img.shields.io/badge/字符串-String-007ec6.svg) ![Backtracking](https://img.shields.io/badge/回溯法-Backtracking-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![String](../../materials/字符串-String-007ec6.svg) ![Backtracking](../../materials/回溯法-Backtracking-007ec6.svg)
 
 ## RESULT
 

@@ -1,6 +1,6 @@
 # Merge Two Sorted Lists
 
-![Easy](https://img.shields.io/badge/-Easy-5cb85c.svg) ![Linked_List](https://img.shields.io/badge/链表-Linked_List-007ec6.svg)
+![Easy](../../materials/-Easy-5cb85c.svg) ![Linked_List](../../materials/链表-Linked_List-007ec6.svg)
 
 ## RESULT
 

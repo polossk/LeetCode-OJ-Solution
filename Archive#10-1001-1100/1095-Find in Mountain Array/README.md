@@ -1,6 +1,6 @@
 # Find in Mountain Array
 
-![Hard](https://img.shields.io/badge/-Hard-e05d44.svg) ![Binary_Search](https://img.shields.io/badge/二分查找-Binary_Search-007ec6.svg)
+![Hard](../../materials/-Hard-e05d44.svg) ![Binary_Search](../../materials/二分查找-Binary_Search-007ec6.svg)
 ## RESULT
 
 | Submission                                                         | Runtime | Memory Usage |

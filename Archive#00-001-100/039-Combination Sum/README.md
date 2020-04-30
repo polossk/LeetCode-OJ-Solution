@@ -1,6 +1,6 @@
 # Combination Sum
 
-![Medium](https://img.shields.io/badge/-Medium-f0ad4e.svg) ![Array](https://img.shields.io/badge/数组-Array-007ec6.svg) ![Backtracking](https://img.shields.io/badge/回溯法-Backtracking-007ec6.svg)
+![Medium](../../materials/-Medium-f0ad4e.svg) ![Array](../../materials/数组-Array-007ec6.svg) ![Backtracking](../../materials/回溯法-Backtracking-007ec6.svg)
 
 ## RESULT
 

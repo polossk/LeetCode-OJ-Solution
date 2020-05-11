@@ -9,10 +9,10 @@
 |                                         | LeetCode`#` | CCI`*` | COF`**` |
 | :-------------------------------------- | ----------: | -----: | ------: |
 | ![Solved](materials/-Total-007ec6.svg)  |    1439 (8) |    109 |      75 |
-| ![Easy](materials/-Easy-5cb85c.svg)     |      45 (2) |      2 |       2 |
-| ![Medium](materials/-Medium-f0ad4e.svg) |      89 (3) |      2 |       2 |
+| ![Easy](materials/-Easy-5cb85c.svg)     |      46 (2) |      2 |       2 |
+| ![Medium](materials/-Medium-f0ad4e.svg) |      91 (3) |      2 |       2 |
 | ![Hard](materials/-Hard-e05d44.svg)     |      26 (0) |      1 |       1 |
-| ![Solved](materials/-Solved-8a2be2.svg) |     160 (5) |      5 |       5 |
+| ![Solved](materials/-Solved-8a2be2.svg) |     163 (5) |      5 |       5 |
 
 * `#` Some problems are locked by leetcode. The number in brackets is solved.  // 部分题目被锁，括号内是其数目
 * `*` CCI is the abbreviation of "Cracking the Coding Interview", here is the [portal](https://leetcode-cn.com/problemset/lcci/) // CCI 是《程序员面试金典》的题库，传送链接已附上
@@ -48,7 +48,7 @@
 
 | Archive         |   AC | Archive         |   AC | Archive         |   AC | Archive         |   AC |
 | --------------- | ---: | --------------- | ---: | --------------- | ---: | --------------- | ---: |
-| **0**01 ~ 100   |   50 | **1**01 ~ 200   |   29 | **2**01 ~ 300   |   23 | **3**01 ~ 400   |   12 |
+| **0**01 ~ 100   |   52 | **1**01 ~ 200   |   29 | **2**01 ~ 300   |   24 | **3**01 ~ 400   |   12 |
 | **4**01 ~ 500   |   10 | **5**01 ~ 600   |    5 | **6**01 ~ 700   |    3 | **7**01 ~ 800   |    5 |
 | **8**01 ~ 900   |    6 | **9**01 ~ 1000  |    3 | **10**01 ~ 1100 |    7 | **11**01 ~ 1200 |    4 |
 | **12**01 ~ 1300 |    1 | **13**01 ~ 1400 |    0 | **14**01 ~ 1500 |    5 |                 |      |
@@ -93,6 +93,7 @@
 | 045 | Hard       | [Jump Game II][045]                                   |  :o:  |        |       |       |
 | 046 | Medium     | [Permutations][046]                                   |  :o:  |        |       |       |
 | 049 | Medium     | [Group Anagrams][049]                                 |  :o:  |  :o:   |  :o:  |       |
+| 050 | Medium     | [Pow(x, n)][050]                                      |  :o:  |        |       |       |
 | 053 | Easy       | [Maximum Subarray][053]                               |  :o:  |  :o:   |  :o:  |       |
 | 055 | Medium     | [Jump Game][055]                                      |  :o:  |        |       |       |
 | 056 | Medium     | [Merge Intervals][056]                                |  :o:  |        |       |       |
@@ -100,6 +101,7 @@
 | 064 | Medium     | [Minimum Path Sum][064]                               |  :o:  |        |       |       |
 | 065 | Hard       | [Valid Number][065]                                   |  :o:  |  :o:   |  :o:  |       |
 | 068 | Hard       | [Text Justification][068]                             |  :o:  |  :o:   |       |       |
+| 069 | Easy       | [Sqrt(x)][069]                                        |  :o:  |        |       |       |
 | 072 | Hard       | [Edit Distance][072]                                  |  :o:  |        |       |       |
 | 074 | Medium     | [Search a 2D Matrix][074]                             |  :o:  |        |       |       |
 | 081 | Medium     | [Search in Rotated Sorted Array II][081]              |  :o:  |        |       |       |
@@ -162,6 +164,7 @@
 | 227 | Medium     | [Basic Calculator II][227]                            |  :o:  |        |       |       |
 | 231 | Easy       | [Power of Two][231]                                   |  :o:  |        |  :o:  |       |
 | 235 | Easy       | [Lowest Common Ancestor of a Binary Search Tree][235] |  :o:  |  :o:   |  :o:  |       |
+| 236 | Medium     | [Lowest Common Ancestor of a Binary Tree][236]        |  :o:  |        |       |       |
 | 238 | Medium     | [Product of Array Except Self][238]                   |  :o:  |        |       |       |
 | 241 | Medium     | [Different Ways to Add Parentheses][241]              |  :o:  |  :o:   |  :o:  |       |
 | 260 | Medium     | [Single Number III][260]                              |  :o:  |  :o:   |  :o:  |       |
@@ -331,13 +334,13 @@
 
 * ![Array](materials/数组-Array-007ec6.svg) [001][001], [004][004], [011][011], [015][015], [016][016], [031][031], [033][033], [039][039], [042][042], [045][045], [053][053], [055][055], [056][056], [064][064], [074][074], [081][081], [121][121], [122][122], [123][123], [126][126], [152][152], [169][169], [189][189], [238][238], [283][283], [289][289], [560][560], [695][695], [714][714], [945][945], [1013][1013], [1160][1160], [1426][1426], [1427][1427], [1428][1428], [cci0107][cci0107]
 * ![String](materials/字符串-String-007ec6.svg) [003][003], [005][005], [006][006], [008][008], [010][010], [012][012], [013][013], [014][014], [017][017], [020][020], [022][022], [032][032], [044][044], [049][049], [065][065], [068][068], [072][072], [091][091], [093][093], [125][125], [126][126], [151][151], [165][165], [227][227], [273][273], [383][383], [385][385], [387][387], [415][415], [468][468], [541][541], [678][678], [1071][1071], [cci0106][cci0106]
-* ![Tree](materials/树-Tree-007ec6.svg) [098][098], [104][104], [124][124], [199][199], [226][226], [235][235], [543][543], [572][572], [993][993], [1008][1008], [1430][1430]
+* ![Tree](materials/树-Tree-007ec6.svg) [098][098], [104][104], [124][124], [199][199], [226][226], [235][235], [236][236], [543][543], [572][572], [993][993], [1008][1008], [1430][1430]
 * ![Bit_Manipulation](materials/位运算-Bit_Manipulation-007ec6.svg) [136][136], [137][137], [169][169], [201][201], [231][231], [260][260], [318][318], [476][476]
 
 #### Algorithm // 算法
 
 * ![Backtracking](materials/回溯法-Backtracking-007ec6.svg) [010][010], [017][017], [022][022], [039][039], [044][044], [046][046], [093][093], [126][126], [211][211], [306][306]
-* ![Binary_Search](materials/二分查找-Binary_Search-007ec6.svg) [004][004], [029][029], [033][033], [074][074], [081][081], [278][278], [300][300], [315][315], [327][327], [493][493], [887][887], [1095][1095], [1111][1111]
+* ![Binary_Search](materials/二分查找-Binary_Search-007ec6.svg) [004][004], [029][029], [033][033], [050][050], [069][069], [074][074], [081][081], [278][278], [300][300], [315][315], [327][327], [493][493], [887][887], [1095][1095], [1111][1111]
 * ![Breadth--first_Search](materials/广度优先搜索-Breadth--first_Search-007ec6.svg) [126][126], [127][127], [130][130], [133][133], [199][199], [200][200], [279][279], [542][542], [752][752], [993][993], [1162][1162]
 * ![Depth--first_Search](materials/深度优先搜索-Depth--first_Search-007ec6.svg) [098][098], [104][104], [124][124], [130][130], [133][133], [199][199], [200][200], [394][394], [494][494], [542][542], [695][695]
 * ![Divide_and_Conquer](materials/分治法-Divide_and_Conquer-007ec6.svg) [004][004], [023][023], [053][053], [169][169], [218][218], [241][241], [315][315], [327][327], [493][493], [cof40][cof40]
@@ -364,7 +367,7 @@
 
 #### Math, Arithmetic, Game Theory // 数学相关
 
-* ![Math](materials/数学-Math-007ec6.svg) [002][002], [007][007], [008][008], [009][009], [012][012], [013][013], [029][029], [065][065], [149][149], [166][166], [202][202], [204][204], [224][224], [231][231], [273][273], [279][279], [365][365], [836][836], [887][887], [892][892], [1009][1009], [1427][1427], [cci1603][cci1603]
+* ![Math](materials/数学-Math-007ec6.svg) [002][002], [007][007], [008][008], [009][009], [012][012], [013][013], [029][029], [050][050], [065][065], [069][069], [149][149], [166][166], [202][202], [204][204], [224][224], [231][231], [273][273], [279][279], [365][365], [836][836], [887][887], [892][892], [1009][1009], [1427][1427], [cci1603][cci1603]
 * ![Geometry](materials/几何-Geometry-007ec6.svg) [892][892], [cci1603][cci1603]
 * ![Minimax](materials/极小极大算法-Minimax-007ec6.svg) [464][464]
 
@@ -427,6 +430,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [045]: /Archive%2300-001-100/045-Jump%20Game%20II
 [046]: /Archive%2300-001-100/046-Permutations
 [049]: /Archive%2300-001-100/049-Group%20Anagrams
+[050]: /Archive%2300-001-100/050-Pow%28x,%20n%29
 [053]: /Archive%2300-001-100/053-Maximum%20Subarray
 [055]: /Archive%2300-001-100/055-Jump%20Game
 [056]: /Archive%2300-001-100/056-Merge%20Intervals
@@ -434,6 +438,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [064]: /Archive%2300-001-100/064-Minimum%20Path%20Sum
 [065]: /Archive%2300-001-100/065-Valid%20Number
 [068]: /Archive%2300-001-100/068-Text%20Justification
+[069]: /Archive%2300-001-100/069-Sqrt%28x%29
 [072]: /Archive%2300-001-100/072-Edit%20Distance
 [074]: /Archive%2300-001-100/074-Search%20a%202D%20Matrix
 [081]: /Archive%2300-001-100/081-Search%20in%20Rotated%20Sorted%20Array%20II
@@ -490,6 +495,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [227]: /Archive%2302-201-300/227-Basic%20Calculator%20II
 [231]: /Archive%2302-201-300/231-Power%20of%20Two
 [235]: /Archive%2302-201-300/235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree
+[236]: /Archive%2302-201-300/236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree
 [238]: /Archive%2302-201-300/238-Product%20of%20Array%20Except%20Self
 [241]: /Archive%2302-201-300/241-Different%20Ways%20to%20Add%20Parentheses
 [260]: /Archive%2302-201-300/260-Single%20Number%20III

@@ -8,11 +8,11 @@
 
 |                                         | LeetCode`#` | CCI`*` | COF`**` |
 | :-------------------------------------- | ----------: | -----: | ------: |
-| ![Solved](materials/-Total-007ec6.svg)  |    1439 (8) |    109 |      75 |
-| ![Easy](materials/-Easy-5cb85c.svg)     |      46 (2) |      2 |       2 |
+| ![Solved](materials/-Total-007ec6.svg)  |    1444 (8) |    109 |      75 |
+| ![Easy](materials/-Easy-5cb85c.svg)     |      50 (2) |      2 |       2 |
 | ![Medium](materials/-Medium-f0ad4e.svg) |      91 (3) |      2 |       2 |
 | ![Hard](materials/-Hard-e05d44.svg)     |      26 (0) |      1 |       1 |
-| ![Solved](materials/-Solved-8a2be2.svg) |     163 (5) |      5 |       5 |
+| ![Solved](materials/-Solved-8a2be2.svg) |     167 (5) |      5 |       5 |
 
 * `#` Some problems are locked by leetcode. The number in brackets is solved.  // 部分题目被锁，括号内是其数目
 * `*` CCI is the abbreviation of "Cracking the Coding Interview", here is the [portal](https://leetcode-cn.com/problemset/lcci/) // CCI 是《程序员面试金典》的题库，传送链接已附上
@@ -21,7 +21,7 @@
 ## Solutions // 刷题成果
 
 * LeetCode:
-![cpp](https://img.shields.io/badge/cpp-160-f34b7d.svg)
+![cpp](https://img.shields.io/badge/cpp-167-f34b7d.svg)
 ![python](https://img.shields.io/badge/python-45-3572A5.svg)
 ![ruby](https://img.shields.io/badge/ruby-40-701516.svg)
 ![java](https://img.shields.io/badge/java-4-b07219.svg)
@@ -46,14 +46,15 @@
 
 ## Solved Problem List // 题目列表
 
-| Archive         |   AC | Archive         |   AC | Archive         |   AC | Archive         |   AC |
-| --------------- | ---: | --------------- | ---: | --------------- | ---: | --------------- | ---: |
-| **0**01 ~ 100   |   52 | **1**01 ~ 200   |   29 | **2**01 ~ 300   |   24 | **3**01 ~ 400   |   12 |
-| **4**01 ~ 500   |   10 | **5**01 ~ 600   |    5 | **6**01 ~ 700   |    3 | **7**01 ~ 800   |    5 |
-| **8**01 ~ 900   |    6 | **9**01 ~ 1000  |    3 | **10**01 ~ 1100 |    7 | **11**01 ~ 1200 |    4 |
-| **12**01 ~ 1300 |    1 | **13**01 ~ 1400 |    0 | **14**01 ~ 1500 |    5 |                 |      |
+| Archive |     AC/TTL | Archive | AC/TTL | Archive |     AC/TTL | Archive |     AC/TTL |
+| ------- | ---------: | ------- | -----: | ------- | ---------: | ------- | ---------: |
+| **0**   |         52 | **1**   |     29 | **2**   | 24/99(0/1) | **3**   | 13/99(0/1) |
+| **4**   | 10/99(0/1) | **5**   |      6 | **6**   |          3 | **7**   |          6 |
+| **8**   |          6 | **9**   |      5 | **10**  |          7 | **11**  |          4 |
+| **12**  |          2 | **13**  |      0 | **14**  |      (5/5) |         |            |
 
-* *several questions were locked*
+* Each *Archive* contains 100 problems.
+* *several questions were locked*, pattern `a/b (c/d)` means that accepted `a` problems within `b` problems, moveover, accepted `c` locked problems within `d` problems.
 
 ### Archive#00: Problem 001 ~ Problem 100
 
@@ -111,6 +112,7 @@
 | 091 | Medium     | [Decode Ways][091]                                    |  :o:  |        |       |       |
 | 093 | Medium     | [Restore IP Addresses][093]                           |  :o:  |        |       |       |
 | 098 | Medium     | [Validate Binary Search Tree][098]                    |  :o:  |        |       |       |
+| 100 |            |                                                       |       |        |       |       |
 
 ### Archive#01: Problem 101 ~ Problem 200
 
@@ -187,10 +189,12 @@
 | 327 | Hard       | [Count of Range Sum][327]                            |  :o:  |        |       |       |
 | 355 | Medium     | [Design Twitter][355]                                |  :o:  |        |       |       |
 | 365 | Medium     | [Water and Jug Problem][365]                         |  :o:  |  :o:   |       |       |
+| 367 | Easy       | [Valid Perfect Square][367]                          |  :o:  |        |       |       |
 | 383 | Easy       | [Ransom Note][383]                                   |  :o:  |        |       |       |
 | 385 | Medium     | [Mini Parser][385]                                   |  :o:  |  :o:   |  :o:  |       |
 | 387 | Easy       | [First Unique Character in a String][387]            |  :o:  |        |       |       |
 | 394 | Medium     | [Decode String][394]                                 |  :o:  |  :o:   |  :o:  |       |
+| 400 |            |                                                      |       |        |       |       |
 
 ### Archive#04: Problem 401 ~ Problem 500
 
@@ -206,6 +210,7 @@
 | 476 | Easy       | [Number Complement][476]       |  :o:  |        |       |       |
 | 493 | Hard       | [Reverse Pairs][493]           |  :o:  |        |       |       |
 | 494 | Medium     | [Target Sum][494]              |  :o:  |        |       |       |
+| 500 |            |                                |       |        |       |       |
 
 ### Archive#05: Problem 501 ~ Problem 600
 
@@ -217,6 +222,7 @@
 | 543 | Easy       | [Diameter of Binary Tree][543] |  :o:  |  :o:   |       |       |
 | 560 | Medium     | [Subarray Sum Equals K][560]   |  :o:  |        |       |       |
 | 572 | Easy       | [Subtree of Another Tree][572] |  :o:  |        |       |       |
+| 600 |            |                                |       |        |       |       |
 
 ### Archive#06: Problem 601 ~ Problem 700
 
@@ -225,16 +231,19 @@
 | 622 | Medium     | [Design Circular Queue][622]    |  :o:  |        |       |       |
 | 678 | Medium     | [Valid Parenthesis String][678] |  :o:  |        |       |       |
 | 695 | Medium     | [Max Area of Island][695]       |  :o:  |        |       |       |
+| 700 |            |                                 |       |        |       |       |
 
 ### Archive#07: Problem 701 ~ Problem 800
 
 | ID  | Difficulty | Problem                                                     |  cpp  | python | ruby  | java  |
 | --- | ---------- | ----------------------------------------------------------- | :---: | :----: | :---: | :---: |
 | 714 | Medium     | [Best Time to Buy and Sell Stock with Transaction Fee][714] |  :o:  |        |       |       |
+| 733 | Easy       | [Flood Fill][733]                                           |  :o:  |        |       |       |
 | 735 | Medium     | [Asteroid Collision][735]                                   |  :o:  |        |       |       |
 | 739 | Medium     | [Daily Temperatures][739]                                   |  :o:  |        |       |       |
 | 752 | Medium     | [Open the Lock][752]                                        |  :o:  |        |       |       |
 | 771 | Easy       | [Jewels and Stones][771]                                    |  :o:  |        |       |       |
+| 800 |            |                                                             |       |        |       |       |
 
 ### Archive#08: Problem 801 ~ Problem 900
 
@@ -246,6 +255,7 @@
 | 876 | Easy       | [Middle of the Linked List][876] |  :o:  |        |       |       |
 | 887 | Easy       | [Super Egg Drop][887]            |  :o:  |        |       |       |
 | 892 | Easy       | [Surface Area of 3D Shapes][892] |  :o:  |        |       |       |
+| 900 |            |                                  |       |        |       |       |
 
 ### Archive#09: Problem 901 ~ Problem 1000
 
@@ -255,6 +265,7 @@
 | 945  | Medium     | [Minimum Increment to Make Array Unique][945] |  :o:  |        |       |       |
 | 983  | Medium     | [Minimum Cost For Tickets][983]               |  :o:  |        |       |       |
 | 993  | Easy       | [Cousins in Binary Tree][993]                 |  :o:  |        |       |       |
+| 997  | Easy       | [Find the Town Judge][997]                    |  :o:  |        |       |       |
 | 1000 |            |                                               |       |        |       |       |
 
 ### Archive#10: Problem 1001 ~ Problem 1100
@@ -268,6 +279,7 @@
 | 1049 | Medium     | [Last Stone Weight II][1049]                                 |  :o:  |        |       |       |
 | 1071 | Easy       | [Greatest Common Divisor of Strings][1071]                   |  :o:  |  :o:   |       |       |
 | 1095 | Hard       | [Find in Mountain Array][1095]                               |  :o:  |        |       |       |
+| 1100 |            |                                                              |       |        |       |       |
 
 ### Archive#11: Problem 1101 ~ Problem 1200
 
@@ -277,12 +289,21 @@
 | 1143 | Medium     | [Longest Common Subsequence][1143]                             |  :o:  |        |       |       |
 | 1160 | Easy       | [Find Words That Can Be Formed by Characters][1160]            |  :o:  |  :o:   |       |       |
 | 1162 | Medium     | [As Far from Land as Possible][1162]                           |  :o:  |        |       |       |
+| 1200 |            |                                                                |       |        |       |       |
 
 ### Archive#12: Problem 1201 ~ Problem 1300
 
 | ID   | Difficulty | Problem                                |  cpp  | python | ruby  | java  |
 | ---- | ---------- | -------------------------------------- | :---: | :----: | :---: | :---: |
+| 1232 | Easy       | [Check If It Is a Straight Line][1232] |  :o:  |        |       |       |
 | 1248 | Medium     | [Count Number of Nice Subarrays][1248] |  :o:  |        |       |       |
+| 1300 |            |                                        |       |        |       |       |
+
+### Archive#13: Problem 1301 ~ Problem 1400
+
+| ID   | Difficulty | Problem |  cpp  | python | ruby  | java  |
+| ---- | ---------- | ------- | :---: | :----: | :---: | :---: |
+| 1400 |            |         |       |        |       |       |
 
 
 ### Archive#14: Problem 1401 ~ Problem 1500
@@ -294,6 +315,7 @@
 | 1428 | Medium     | [Leftmost Column with at Least a One][1428]                                             |  :o:  |        |       |       |
 | 1429 | Medium     | [First Unique Number][1429]                                                             |  :o:  |        |       |       |
 | 1430 | Medium     | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree][1430] |  :o:  |        |       |       |
+| 1500 |            |                                                                                         |       |        |       |       |
 
 ### Locked LeetCode Problems (8)
 
@@ -332,7 +354,7 @@
 
 #### Programming Fundamentals // 编程基础
 
-* ![Array](materials/数组-Array-007ec6.svg) [001][001], [004][004], [011][011], [015][015], [016][016], [031][031], [033][033], [039][039], [042][042], [045][045], [053][053], [055][055], [056][056], [064][064], [074][074], [081][081], [121][121], [122][122], [123][123], [126][126], [152][152], [169][169], [189][189], [238][238], [283][283], [289][289], [560][560], [695][695], [714][714], [945][945], [1013][1013], [1160][1160], [1426][1426], [1427][1427], [1428][1428], [cci0107][cci0107]
+* ![Array](materials/数组-Array-007ec6.svg) [001][001], [004][004], [011][011], [015][015], [016][016], [031][031], [033][033], [039][039], [042][042], [045][045], [053][053], [055][055], [056][056], [064][064], [074][074], [081][081], [121][121], [122][122], [123][123], [126][126], [152][152], [169][169], [189][189], [238][238], [283][283], [289][289], [560][560], [695][695], [714][714], [945][945], [1013][1013], [1160][1160], [1232][1232], [1426][1426], [1427][1427], [1428][1428], [cci0107][cci0107]
 * ![String](materials/字符串-String-007ec6.svg) [003][003], [005][005], [006][006], [008][008], [010][010], [012][012], [013][013], [014][014], [017][017], [020][020], [022][022], [032][032], [044][044], [049][049], [065][065], [068][068], [072][072], [091][091], [093][093], [125][125], [126][126], [151][151], [165][165], [227][227], [273][273], [383][383], [385][385], [387][387], [415][415], [468][468], [541][541], [678][678], [1071][1071], [cci0106][cci0106]
 * ![Tree](materials/树-Tree-007ec6.svg) [098][098], [104][104], [124][124], [199][199], [226][226], [235][235], [236][236], [543][543], [572][572], [993][993], [1008][1008], [1430][1430]
 * ![Bit_Manipulation](materials/位运算-Bit_Manipulation-007ec6.svg) [136][136], [137][137], [169][169], [201][201], [231][231], [260][260], [318][318], [476][476]
@@ -340,9 +362,9 @@
 #### Algorithm // 算法
 
 * ![Backtracking](materials/回溯法-Backtracking-007ec6.svg) [010][010], [017][017], [022][022], [039][039], [044][044], [046][046], [093][093], [126][126], [211][211], [306][306]
-* ![Binary_Search](materials/二分查找-Binary_Search-007ec6.svg) [004][004], [029][029], [033][033], [050][050], [069][069], [074][074], [081][081], [278][278], [300][300], [315][315], [327][327], [493][493], [887][887], [1095][1095], [1111][1111]
+* ![Binary_Search](materials/二分查找-Binary_Search-007ec6.svg) [004][004], [029][029], [033][033], [050][050], [069][069], [074][074], [081][081], [278][278], [300][300], [315][315], [327][327], [367][367], [493][493], [887][887], [1095][1095], [1111][1111]
 * ![Breadth--first_Search](materials/广度优先搜索-Breadth--first_Search-007ec6.svg) [126][126], [127][127], [130][130], [133][133], [199][199], [200][200], [279][279], [542][542], [752][752], [993][993], [1162][1162]
-* ![Depth--first_Search](materials/深度优先搜索-Depth--first_Search-007ec6.svg) [098][098], [104][104], [124][124], [130][130], [133][133], [199][199], [200][200], [394][394], [494][494], [542][542], [695][695]
+* ![Depth--first_Search](materials/深度优先搜索-Depth--first_Search-007ec6.svg) [098][098], [104][104], [124][124], [130][130], [133][133], [199][199], [200][200], [394][394], [494][494], [542][542], [695][695], [733][733]
 * ![Divide_and_Conquer](materials/分治法-Divide_and_Conquer-007ec6.svg) [004][004], [023][023], [053][053], [169][169], [218][218], [241][241], [315][315], [327][327], [493][493], [cof40][cof40]
 * ![Dynamic_Programming](materials/动态规划-Dynamic_Programming-007ec6.svg) [005][005], [010][010], [032][032], [044][044], [053][053], [064][064], [072][072], [091][091], [121][121], [123][123], [139][139], [152][152], [188][188], [221][221], [279][279], [300][300], [309][309], [464][464], [466][466], [494][494], [714][714], [887][887], [983][983], [1049][1049], [1143][1143], [cci0811][cci0811], [cci1716][cci1716]
 * ![Greedy](materials/贪心-Greedy-007ec6.svg) [044][044], [045][045], [055][055], [122][122], [714][714], [1046][1046], [1111][1111]
@@ -354,7 +376,7 @@
 #### Data Structure // 数据结构
 
 * ![Binary_Indexed_Tree](materials/树状数组-Binary_Indexed_Tree-007ec6.svg) [218][218], [307][307], [315][315], [327][327], [493][493]
-* ![Graph](materials/图-Graph-007ec6.svg) [133][133], [1162][1162]
+* ![Graph](materials/图-Graph-007ec6.svg) [133][133], [997][997], [1162][1162]
 * ![Hash_Table](materials/哈希表-Hash_Table-007ec6.svg) [001][001], [003][003], [049][049], [136][136], [149][149], [166][166], [202][202], [204][204], [355][355], [387][387], [409][409], [525][525], [560][560], [739][739], [771][771], [1160][1160], [1429][1429]
 * ![Heap](materials/堆-Heap-007ec6.svg) [023][023], [218][218], [355][355], [1046][1046], [cof40][cof40]
 * ![Linked_List](materials/链表-Linked_List-007ec6.svg) [002][002], [019][019], [021][021], [023][023], [024][024], [025][025], [061][061], [082][082], [083][083], [086][086], [141][141], [142][142], [143][143], [445][445], [876][876]
@@ -367,8 +389,8 @@
 
 #### Math, Arithmetic, Game Theory // 数学相关
 
-* ![Math](materials/数学-Math-007ec6.svg) [002][002], [007][007], [008][008], [009][009], [012][012], [013][013], [029][029], [050][050], [065][065], [069][069], [149][149], [166][166], [202][202], [204][204], [224][224], [231][231], [273][273], [279][279], [365][365], [836][836], [887][887], [892][892], [1009][1009], [1427][1427], [cci1603][cci1603]
-* ![Geometry](materials/几何-Geometry-007ec6.svg) [892][892], [cci1603][cci1603]
+* ![Math](materials/数学-Math-007ec6.svg) [002][002], [007][007], [008][008], [009][009], [012][012], [013][013], [029][029], [050][050], [065][065], [069][069], [149][149], [166][166], [202][202], [204][204], [224][224], [231][231], [273][273], [279][279], [365][365], [367][367], [836][836], [887][887], [892][892], [1009][1009], [1232][1232], [1427][1427], [cci1603][cci1603]
+* ![Geometry](materials/几何-Geometry-007ec6.svg) [892][892], [1232][1232], [cci1603][cci1603]
 * ![Minimax](materials/极小极大算法-Minimax-007ec6.svg) [464][464]
 
 #### High-level Programming Techniques // 编程技巧
@@ -515,6 +537,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [327]: /Archive%2303-301-400/327-Count%20of%20Range%20Sum
 [355]: /Archive%2303-301-400/355-Design%20Twitter
 [365]: /Archive%2303-301-400/365-Water%20and%20Jug%20Problem
+[367]: /Archive%2303-301-400/367-Valid%20Perfect%20Square
 [383]: /Archive%2303-301-400/383-Ransom%20Note
 [385]: /Archive%2303-301-400/385-Mini%20Parser
 [387]: /Archive%2303-301-400/387-First%20Unique%20Character%20in%20a%20String
@@ -547,6 +570,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 <!-- ARCHIVE #07 -->
 [714]: /Archive%2307-701-800/714-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee
+[733]: /Archive%2307-701-800/733-Flood%20Fill
 [735]: /Archive%2307-701-800/735-Asteroid%20Collision
 [739]: /Archive%2307-701-800/739-Daily%20Temperatures
 [752]: /Archive%2307-701-800/752-Open%20the%20Lock
@@ -565,6 +589,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [945]: /Archive%2309-901-1000/945-Minimum%20Increment%20to%20Make%20Array%20Unique
 [983]: /Archive%2309-901-1000/983-Minimum%20Cost%20For%20Tickets
 [993]: /Archive%2309-901-1000/993-Cousins%20in%20Binary%20Tree
+[997]: /Archive%2309-901-1000/997-Find%20the%20Town%20Judge
 
 <!-- ARCHIVE #10 -->
 [1008]: /Archive%2310-1001-1100/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal
@@ -582,6 +607,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [1162]: /Archive%2311-1101-1200/1162-As%20Far%20from%20Land%20as%20Possible
 
 <!-- ARCHIVE #12 -->
+[1232]: /Archive%2312-1201-1300/1232-Check%20If%20It%20Is%20a%20Straight%20Line
 [1248]: /Archive%2312-1201-1300/1248-Count%20Number%20of%20Nice%20Subarrays
 
 <!-- ARCHIVE #14 -->

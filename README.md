@@ -8,11 +8,11 @@
 
 |                                         | LeetCode`#` | CCI`*` | COF`**` |
 | :-------------------------------------- | ----------: | -----: | ------: |
-| ![Solved](materials/-Total-007ec6.svg)  |    1444 (8) |    109 |      75 |
-| ![Easy](materials/-Easy-5cb85c.svg)     |      50 (2) |      2 |       2 |
-| ![Medium](materials/-Medium-f0ad4e.svg) |      92 (3) |      2 |       2 |
+| ![Total](materials/-Total-007ec6.svg)   |    1444 (8) |    109 |      75 |
+| ![Easy](materials/-Easy-5cb85c.svg)     |      53 (2) |      2 |       2 |
+| ![Medium](materials/-Medium-f0ad4e.svg) |      95 (3) |      2 |       2 |
 | ![Hard](materials/-Hard-e05d44.svg)     |      26 (0) |      1 |       1 |
-| ![Solved](materials/-Solved-8a2be2.svg) |     168 (5) |      5 |       5 |
+| ![Solved](materials/-Solved-8a2be2.svg) |     174 (5) |      5 |       5 |
 
 * `#` Some problems are locked by leetcode. The number in brackets is solved.  // 部分题目被锁，括号内是其数目
 * `*` CCI is the abbreviation of "Cracking the Coding Interview", here is the [portal](https://leetcode-cn.com/problemset/lcci/) // CCI 是《程序员面试金典》的题库，传送链接已附上
@@ -20,10 +20,10 @@
 
 ## Solutions // 刷题成果
 
-* LeetCode:
-![cpp](https://img.shields.io/badge/cpp-168-f34b7d.svg)
-![python](https://img.shields.io/badge/python-45-3572A5.svg)
-![ruby](https://img.shields.io/badge/ruby-41-701516.svg)
+* LeetCode (Total):
+![cpp](https://img.shields.io/badge/cpp-174-f34b7d.svg)     
+![python](https://img.shields.io/badge/python-47-3572A5.svg)
+![ruby](https://img.shields.io/badge/ruby-43-701516.svg)
 ![java](https://img.shields.io/badge/java-4-b07219.svg)
 ![haskell](https://img.shields.io/badge/haskell-1-5e5086.svg)
 
@@ -49,9 +49,9 @@
 | Archive |     AC/TTL | Archive | AC/TTL | Archive |     AC/TTL | Archive |     AC/TTL |
 | ------- | ---------: | ------- | -----: | ------- | ---------: | ------- | ---------: |
 | **0**   |         52 | **1**   |     29 | **2**   | 24/99(0/1) | **3**   | 13/99(0/1) |
-| **4**   | 10/99(0/1) | **5**   |      6 | **6**   |          3 | **7**   |          6 |
+| **4**   | 10/99(0/1) | **5**   |      7 | **6**   |          3 | **7**   |          6 |
 | **8**   |          6 | **9**   |      5 | **10**  |          7 | **11**  |          4 |
-| **12**  |          2 | **13**  |      0 | **14**  |      (5/5) |         |            |
+| **12**  |          2 | **13**  |      0 | **14**  |  1/95(5/5) |         |            |
 
 * Each *Archive* contains 100 problems.
 * *several questions were locked*, pattern `a/b (c/d)` means that accepted `a` problems within `b` problems, moveover, accepted `c` locked problems within `d` problems.
@@ -311,6 +311,7 @@
 
 | ID   | Difficulty | Problem                                                                                 |  cpp  | python | ruby  | java  |
 | ---- | ---------- | --------------------------------------------------------------------------------------- | :---: | :----: | :---: | :---: |
+| 1415 | Medium     | [The k-th Lexicographical String of All Happy Strings of Length n][1415]                |  :o:  |        |       |       |
 | 1426 | Easy       | [Counting Elements][1426]                                                               |  :o:  |  :o:   |  :o:  |       |
 | 1427 | Easy       | [Perform String Shifts][1427]                                                           |  :o:  |  :o:   |  :o:  |       |
 | 1428 | Medium     | [Leftmost Column with at Least a One][1428]                                             |  :o:  |        |       |       |
@@ -356,13 +357,13 @@
 #### Programming Fundamentals // 编程基础
 
 * ![Array](materials/数组-Array-007ec6.svg) (37): [001][001], [004][004], [011][011], [015][015], [016][016], [031][031], [033][033], [039][039], [042][042], [045][045], [053][053], [055][055], [056][056], [064][064], [074][074], [081][081], [121][121], [122][122], [123][123], [126][126], [152][152], [169][169], [189][189], [238][238], [283][283], [289][289], [560][560], [695][695], [714][714], [945][945], [1013][1013], [1160][1160], [1232][1232], [1426][1426], [1427][1427], [1428][1428], [cci0107][cci0107]
-* ![String](materials/字符串-String-007ec6.svg) (34): [003][003], [005][005], [006][006], [008][008], [010][010], [012][012], [013][013], [014][014], [017][017], [020][020], [022][022], [032][032], [044][044], [049][049], [065][065], [068][068], [072][072], [091][091], [093][093], [125][125], [126][126], [151][151], [165][165], [227][227], [273][273], [383][383], [385][385], [387][387], [415][415], [468][468], [541][541], [678][678], [1071][1071], [cci0106][cci0106]
+* ![String](materials/字符串-String-007ec6.svg) (35): [003][003], [005][005], [006][006], [008][008], [010][010], [012][012], [013][013], [014][014], [017][017], [020][020], [022][022], [032][032], [044][044], [049][049], [065][065], [068][068], [072][072], [091][091], [093][093], [125][125], [126][126], [151][151], [165][165], [227][227], [273][273], [383][383], [385][385], [387][387], [415][415], [468][468], [541][541], [678][678], [1071][1071], [1415][1415], [cci0106][cci0106]
 * ![Tree](materials/树-Tree-007ec6.svg) (12): [098][098], [104][104], [124][124], [199][199], [226][226], [235][235], [236][236], [543][543], [572][572], [993][993], [1008][1008], [1430][1430]
 * ![Bit_Manipulation](materials/位运算-Bit_Manipulation-007ec6.svg) (8): [136][136], [137][137], [169][169], [201][201], [231][231], [260][260], [318][318], [476][476]
 
 #### Algorithm // 算法
 
-* ![Backtracking](materials/回溯法-Backtracking-007ec6.svg) (10): [010][010], [017][017], [022][022], [039][039], [044][044], [046][046], [093][093], [126][126], [211][211], [306][306]
+* ![Backtracking](materials/回溯法-Backtracking-007ec6.svg) (11): [010][010], [017][017], [022][022], [039][039], [044][044], [046][046], [093][093], [126][126], [211][211], [306][306], [1415][1415]
 * ![Binary_Search](materials/二分查找-Binary_Search-007ec6.svg) (16): [004][004], [029][029], [033][033], [050][050], [069][069], [074][074], [081][081], [278][278], [300][300], [315][315], [327][327], [367][367], [493][493], [887][887], [1095][1095], [1111][1111]
 * ![Breadth--first_Search](materials/广度优先搜索-Breadth--first_Search-007ec6.svg) (11): [126][126], [127][127], [130][130], [133][133], [199][199], [200][200], [279][279], [542][542], [752][752], [993][993], [1162][1162]
 * ![Depth--first_Search](materials/深度优先搜索-Depth--first_Search-007ec6.svg) (12): [098][098], [104][104], [124][124], [130][130], [133][133], [199][199], [200][200], [394][394], [494][494], [542][542], [695][695], [733][733]
@@ -614,6 +615,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 [1248]: /Archive%2312-1201-1300/1248-Count%20Number%20of%20Nice%20Subarrays
 
 <!-- ARCHIVE #14 -->
+[1415]: /Archive%2314-1401-1500/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n
 [1426]: /Archive%2314-1401-1500/1426-Counting%20Elements
 [1427]: /Archive%2314-1401-1500/1427-Perform%20String%20Shifts
 [1428]: /Archive%2314-1401-1500/1428-Leftmost%20Column%20with%20at%20Least%20a%20One

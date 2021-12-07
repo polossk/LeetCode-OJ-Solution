@@ -3,7 +3,7 @@ import glob
 TAGS = {
     r'(../../../../materials/': r'(../../materials/',
     r'(materials/': r'(../../materials/',
-} # oldname newname
+}  # oldname newname
 
 
 def main():
